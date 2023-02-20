@@ -1,0 +1,452 @@
+Feb. 13, 2023 7:04:17 P.M. Atwater main
+INFO: Atwater Started server
+Feb. 13, 2023 11:22:31 P.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 11:15:59 A.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 11:45:55 A.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 11:47:46 A.M. RemoteImplementation addMovieSlots
+INFO: Adding 50 slots for ATWM150223 AVATAR
+Feb. 14, 2023 11:47:46 A.M. RemoteImplementation addMovieSlots
+INFO: Added movie slots successfully
+Feb. 14, 2023 11:48:37 A.M. RemoteImplementation addMovieSlots
+INFO: Adding 50 slots for OUTM170223 AVENGERS
+Feb. 14, 2023 11:48:37 A.M. RemoteImplementation addMovieSlots
+INFO: Added movie slots successfully
+Feb. 14, 2023 11:51:31 A.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 11:51:57 A.M. RemoteImplementation addMovieSlots
+INFO: Adding 50 slots for OUTA150223 AVATAR
+Feb. 14, 2023 11:51:57 A.M. RemoteImplementation addMovieSlots
+INFO: You can only add movies in your respective location
+Feb. 14, 2023 11:52:19 A.M. RemoteImplementation addMovieSlots
+INFO: Adding 50 slots for ATWM150223 AVATAR
+Feb. 14, 2023 11:52:19 A.M. RemoteImplementation addMovieSlots
+INFO: You can only add movies in your respective location
+Feb. 14, 2023 11:53:09 A.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 11:53:32 A.M. RemoteImplementation addMovieSlots
+INFO: Adding 60 slots for ATWM150223 AVATAR
+Feb. 14, 2023 11:53:32 A.M. RemoteImplementation addMovieSlots
+INFO: You can only add movies in your respective location
+Feb. 14, 2023 11:54:12 A.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 11:54:34 A.M. RemoteImplementation addMovieSlots
+INFO: Adding 50 slots for ATWM150223 AVATAR
+Feb. 14, 2023 11:54:34 A.M. RemoteImplementation addMovieSlots
+INFO: You can only add movies in your respective location
+Feb. 14, 2023 11:55:09 A.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 11:55:36 A.M. RemoteImplementation addMovieSlots
+INFO: Adding 40 slots for ATWM150223 AVATAR
+Feb. 14, 2023 11:55:36 A.M. RemoteImplementation addMovieSlots
+INFO: Added movie slots successfully
+Feb. 14, 2023 11:56:11 A.M. RemoteImplementation addMovieSlots
+INFO: Adding 20 slots for ATWE160223 AVENGERS
+Feb. 14, 2023 11:56:11 A.M. RemoteImplementation addMovieSlots
+INFO: Added movie slots successfully
+Feb. 14, 2023 11:56:28 A.M. RemoteImplementation addMovieSlots
+INFO: Adding 40 slots for ATWM170223 AVATAR
+Feb. 14, 2023 11:56:28 A.M. RemoteImplementation addMovieSlots
+INFO: Added movie slots successfully
+Feb. 14, 2023 11:57:48 A.M. RemoteImplementation removeMovieSlots
+INFO: Removing moving slots for ATWM150223 AVATAR
+Feb. 14, 2023 11:57:48 A.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Feb. 14, 2023 11:57:48 A.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM170223 40, ATWA130223 8, ATWA120223 6, ATWM150223 40]
+Feb. 14, 2023 11:57:48 A.M. RemoteImplementation removeMovieSlots
+INFO: Removed Movie Slot! Booked customers to next slot
+Feb. 14, 2023 12:01:21 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM150223)with customer id ATWC1234
+Feb. 14, 2023 12:01:21 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 12:01:21 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 12:01:21 P.M. RemoteImplementation bookMovieTickets
+INFO: Sorry! Movie show does not exist
+Feb. 14, 2023 12:08:06 P.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 12:08:26 P.M. RemoteImplementation addMovieSlots
+INFO: Adding 50 slots for ATWM150223 AVATAR
+Feb. 14, 2023 12:08:26 P.M. RemoteImplementation addMovieSlots
+INFO: Added movie slots successfully
+Feb. 14, 2023 12:09:06 P.M. RemoteImplementation addMovieSlots
+INFO: Adding 50 slots for OUTM150223 AVATAR
+Feb. 14, 2023 12:09:06 P.M. RemoteImplementation addMovieSlots
+INFO: You can only add movies in your respective location
+Feb. 14, 2023 6:16:25 P.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 6:37:37 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 6:37:37 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 6:39:10 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Feb. 14, 2023 6:39:10 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWA130223 8, ATWA120223 6, VERA140223 3, VERA120223 4, VERA130223 5, OUTA130223 8, OUTA120223 6]
+Feb. 14, 2023 6:39:40 P.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 6:40:46 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Feb. 14, 2023 6:40:46 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWA150223 6, ATWA160223 8, VERM190223 3, VERA150223 4, VERA170223 5, OUTA150223 8, OUTA180223 6]
+Feb. 14, 2023 6:41:43 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 3 tickets for movieTITANIC(VERA150223)with customer id ATWC1234
+Feb. 14, 2023 6:41:43 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 6:41:43 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 6:41:43 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 6:41:43 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 6:45:01 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 40 tickets for movieTITANIC(OUTM150223)with customer id ATWC1234
+Feb. 14, 2023 6:45:01 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 6:45:01 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [TITANIC VERA150223 3]
+Feb. 14, 2023 6:45:01 P.M. RemoteImplementation bookMovieTickets
+INFO: Text 'NIC' could not be parsed at index 0
+Feb. 14, 2023 6:46:55 P.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 6:48:25 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Feb. 14, 2023 6:48:25 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWA150223 6, ATWA160223 8, VERM190223 3, VERA150223 4, VERA170223 5, OUTA150223 8, OUTA180223 6]
+Feb. 14, 2023 6:48:45 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 20 tickets for movieAVATAR(VERA150223)with customer id ATWC1234
+Feb. 14, 2023 6:48:45 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 6:48:45 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 6:48:45 P.M. RemoteImplementation bookMovieTickets
+INFO: You cannot book more that 3 movie tickets
+Feb. 14, 2023 6:49:54 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVENGERS(ATWA150223)with customer id ATWC1234
+Feb. 14, 2023 6:49:54 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 6:49:54 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 6:49:54 P.M. RemoteImplementation bookMovieTickets
+INFO: Movie booked successfully! 
+Feb. 14, 2023 6:50:17 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 5 tickets for movieTITANIC(VERA150223)with customer id ATWC1234
+Feb. 14, 2023 6:50:17 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 6:50:17 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVENGERS ATWA150223 2]
+Feb. 14, 2023 6:50:17 P.M. RemoteImplementation bookMovieTickets
+INFO: Text 'GERS' could not be parsed at index 0
+Feb. 14, 2023 6:57:40 P.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 6:58:28 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 5 tickets for movieAVENGERS(ATWA150223)with customer id ATWC1234
+Feb. 14, 2023 6:58:28 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 6:58:28 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 6:58:28 P.M. RemoteImplementation bookMovieTickets
+INFO: Sorry! we have only 4 seats available
+Feb. 14, 2023 6:59:21 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 4 tickets for movieAVENGERS(ATWA150223)with customer id ATWC1234
+Feb. 14, 2023 6:59:21 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 6:59:21 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 6:59:21 P.M. RemoteImplementation bookMovieTickets
+INFO: Movie booked successfully! 
+Feb. 14, 2023 7:00:02 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 3 tickets for movieAVATAR(VERA150223)with customer id ATWC1234
+Feb. 14, 2023 7:00:02 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:00:02 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVENGERS ATWA150223 4]
+Feb. 14, 2023 7:00:02 P.M. RemoteImplementation bookMovieTickets
+INFO: Text 'GERS' could not be parsed at index 0
+Feb. 14, 2023 7:03:25 P.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 7:03:51 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 4 tickets for movieAVENGERS(ATWA150223)with customer id ATWC1234
+Feb. 14, 2023 7:03:51 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:03:51 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:03:51 P.M. RemoteImplementation bookMovieTickets
+INFO: Movie booked successfully! 
+Feb. 14, 2023 7:04:05 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(VERA150223)with customer id ATWC1234
+Feb. 14, 2023 7:04:05 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:04:05 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVENGERS ATWA150223 4]
+Feb. 14, 2023 7:04:05 P.M. RemoteImplementation bookMovieTickets
+INFO: Text 'GERS' could not be parsed at index 0
+Feb. 14, 2023 7:05:06 P.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 7:06:00 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVENGERS(ATWA150223)with customer id ATWC1234
+Feb. 14, 2023 7:06:00 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:06:00 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:06:00 P.M. RemoteImplementation bookMovieTickets
+INFO: Movie booked successfully! 
+Feb. 14, 2023 7:06:35 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(VERA150223)with customer id ATWC1234
+Feb. 14, 2023 7:06:35 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:06:35 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVENGERS ATWA150223 2]
+Feb. 14, 2023 7:06:35 P.M. RemoteImplementation bookMovieTickets
+INFO: Text 'GERS' could not be parsed at index 0
+Feb. 14, 2023 7:07:59 P.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 7:09:26 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWA150223)with customer id ATWC1234
+Feb. 14, 2023 7:09:26 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:09:26 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:09:26 P.M. RemoteImplementation bookMovieTickets
+INFO: Movie booked successfully! 
+Feb. 14, 2023 7:10:11 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 3 tickets for movieAVATAR(VERA150223)with customer id ATWC1234
+Feb. 14, 2023 7:10:11 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:10:11 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWA150223 2]
+Feb. 14, 2023 7:10:11 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:10:11 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWA150223 2]
+Feb. 14, 2023 7:25:00 P.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 7:25:23 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWA150223)with customer id ATWC1234
+Feb. 14, 2023 7:25:23 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:25:23 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:25:23 P.M. RemoteImplementation bookMovieTickets
+INFO: Movie booked successfully! 
+Feb. 14, 2023 7:25:35 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(VERA150223)with customer id ATWC1234
+Feb. 14, 2023 7:25:35 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:25:35 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWA150223 2]
+Feb. 14, 2023 7:25:35 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:25:35 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWA150223 2]
+Feb. 14, 2023 7:30:34 P.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 7:31:22 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWA150223)with customer id ATWC1234
+Feb. 14, 2023 7:31:22 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:31:55 P.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 7:32:29 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWA150223)with customer id ATWC1234
+Feb. 14, 2023 7:32:29 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:32:29 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:32:29 P.M. RemoteImplementation bookMovieTickets
+INFO: Movie booked successfully! 
+Feb. 14, 2023 7:33:07 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(VERA150223)with customer id ATWC1234
+Feb. 14, 2023 7:33:07 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:33:07 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWA150223 2]
+Feb. 14, 2023 7:33:08 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:33:08 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWA150223 2]
+Feb. 14, 2023 7:33:31 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:33:31 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWA150223 2]
+Feb. 14, 2023 7:34:09 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 3 tickets for movieAVATAR(OUTA180223)with customer id ATWC1234
+Feb. 14, 2023 7:34:09 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:34:09 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWA150223 2]
+Feb. 14, 2023 7:34:09 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:34:09 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWA150223 2]
+Feb. 14, 2023 7:34:23 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 4 tickets for movieAVATAR(OUTA180223)with customer id ATWC1234
+Feb. 14, 2023 7:34:23 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:34:23 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWA150223 2, AVATAR OUTA180223 3]
+Feb. 14, 2023 7:34:23 P.M. RemoteImplementation bookMovieTickets
+INFO: You cannot book more that 3 movie tickets
+Feb. 14, 2023 7:34:59 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 6 tickets for movieAVATAR(ATWA150223)with customer id ATWC1234
+Feb. 14, 2023 7:34:59 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:34:59 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWA150223 2, AVATAR OUTA180223 3]
+Feb. 14, 2023 7:34:59 P.M. RemoteImplementation bookMovieTickets
+INFO: Sorry! we have only 4 seats available
+Feb. 14, 2023 7:39:09 P.M. RemoteImplementation addMovieSlots
+INFO: Adding 50 slots for ATWM170223 AVATAR
+Feb. 14, 2023 7:39:09 P.M. RemoteImplementation addMovieSlots
+INFO: Added movie slots successfully
+Feb. 14, 2023 7:40:02 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 20 tickets for movieAVATAR(ATWM170223)with customer id ATWC1234
+Feb. 14, 2023 7:40:02 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:40:02 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWA150223 2, AVATAR OUTA180223 3]
+Feb. 14, 2023 7:40:02 P.M. RemoteImplementation bookMovieTickets
+INFO: Movie booked successfully! 
+Feb. 14, 2023 7:40:33 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 5 tickets for movieAVATAR(ATWM170223)with customer id ATWC2345
+Feb. 14, 2023 7:40:33 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC2345
+Feb. 14, 2023 7:40:33 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC2345 is: []
+Feb. 14, 2023 7:40:33 P.M. RemoteImplementation bookMovieTickets
+INFO: Movie booked successfully! 
+Feb. 14, 2023 7:41:55 P.M. RemoteImplementation addMovieSlots
+INFO: Adding 50 slots for ATWM180223 AVATAR
+Feb. 14, 2023 7:41:55 P.M. RemoteImplementation addMovieSlots
+INFO: Added movie slots successfully
+Feb. 14, 2023 7:42:24 P.M. RemoteImplementation removeMovieSlots
+INFO: Removing moving slots for ATWM170223 AVATAR
+Feb. 14, 2023 7:42:24 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Feb. 14, 2023 7:42:24 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWA150223 4, ATWA160223 8, ATWM170223 25, ATWM180223 50]
+Feb. 14, 2023 7:42:24 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 5 tickets for movieAVATAR(ATWM180223)with customer id ATWC2345
+Feb. 14, 2023 7:42:24 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC2345
+Feb. 14, 2023 7:42:24 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC2345 is: [AVATAR ATWM170223 5]
+Feb. 14, 2023 7:42:24 P.M. RemoteImplementation bookMovieTickets
+INFO: Movie booked successfully! 
+Feb. 14, 2023 7:42:24 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 20 tickets for movieAVATAR(ATWM180223)with customer id ATWC1234
+Feb. 14, 2023 7:42:24 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:42:24 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWA150223 2, AVATAR ATWM170223 20, AVATAR OUTA180223 3]
+Feb. 14, 2023 7:42:24 P.M. RemoteImplementation bookMovieTickets
+INFO: Movie booked successfully! 
+Feb. 14, 2023 7:42:24 P.M. RemoteImplementation removeMovieSlots
+INFO: Removed Movie Slot!
+Feb. 14, 2023 7:42:51 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:42:51 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWA150223 2, AVATAR ATWM170223 20, AVATAR ATWM180223 20, AVATAR OUTA180223 3]
+Feb. 14, 2023 7:48:08 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Feb. 14, 2023 7:48:08 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWA150223 4, ATWA160223 8, ATWM180223 25, VERM190223 3, VERA150223 4, VERA170223 5, OUTA150223 8, OUTA180223 3]
+Feb. 14, 2023 7:55:09 P.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 7:56:20 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWA150223)with customer id ATWC1234
+Feb. 14, 2023 7:56:20 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:56:20 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:56:20 P.M. RemoteImplementation bookMovieTickets
+INFO: Movie booked successfully! 
+Feb. 14, 2023 7:56:41 P.M. RemoteImplementation removeMovieSlots
+INFO: Removing moving slots for ATWA150223 AVATAR
+Feb. 14, 2023 7:56:41 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Feb. 14, 2023 7:56:41 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWA150223 4, ATWA160223 8]
+Feb. 14, 2023 7:56:41 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWA160223)with customer id ATWC1234
+Feb. 14, 2023 7:56:41 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:56:41 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWA150223 2]
+Feb. 14, 2023 7:56:41 P.M. RemoteImplementation bookMovieTickets
+INFO: Movie booked successfully! 
+Feb. 14, 2023 7:56:41 P.M. RemoteImplementation removeMovieSlots
+INFO: Removed Movie Slot!
+Feb. 14, 2023 7:56:53 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:56:53 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWA150223 2, AVATAR ATWA160223 2]
+Feb. 14, 2023 8:03:39 P.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 8:05:43 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWA150223)with customer id ATWC1234
+Feb. 14, 2023 8:05:43 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 8:05:43 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 8:05:43 P.M. RemoteImplementation bookMovieTickets
+INFO: Movie booked successfully! 
+Feb. 14, 2023 8:06:02 P.M. RemoteImplementation removeMovieSlots
+INFO: Removing moving slots for ATWA150223 AVATAR
+Feb. 14, 2023 8:07:29 P.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 8:08:17 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWA150223)with customer id ATWC1234
+Feb. 14, 2023 8:08:17 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 8:08:17 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 8:08:17 P.M. RemoteImplementation bookMovieTickets
+INFO: Movie booked successfully! 
+Feb. 14, 2023 8:08:29 P.M. RemoteImplementation removeMovieSlots
+INFO: Removing moving slots for ATWA150223 AVATAR
+Feb. 14, 2023 8:08:29 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Feb. 14, 2023 8:08:29 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWA150223 4, ATWA160223 8]
+Feb. 14, 2023 8:08:29 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWA160223)with customer id ATWC1234
+Feb. 14, 2023 8:08:29 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 8:08:29 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 8:08:29 P.M. RemoteImplementation bookMovieTickets
+INFO: Movie booked successfully! 
+Feb. 14, 2023 8:08:29 P.M. RemoteImplementation removeMovieSlots
+INFO: Removed Movie Slot!
+Feb. 14, 2023 8:08:39 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 8:08:39 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWA160223 2]
+Feb. 14, 2023 8:56:07 P.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 8:57:12 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVENGERS(ATWA150223)with customer id ATWC1234
+Feb. 14, 2023 8:57:12 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 8:57:12 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 8:57:12 P.M. RemoteImplementation bookMovieTickets
+INFO: Movie booked successfully! 2023-02-14T20:57:12.450657
+Feb. 14, 2023 8:58:17 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 4 tickets for movieTITANIC(VERA150223)with customer id ATWC1234
+Feb. 14, 2023 8:58:17 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 8:58:17 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVENGERS ATWA150223 2]
+Feb. 14, 2023 8:58:17 P.M. RemoteImplementation bookMovieTickets
+INFO: You cannot book more that 3 movie tickets
+Feb. 14, 2023 9:44:40 P.M. Atwater main
+INFO: Atwater Started server
+Feb. 14, 2023 9:46:27 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Feb. 14, 2023 9:46:27 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWA150223 6, ATWA160223 8, VERM190223 3, VERA150223 4, VERA170223 5, OUTA150223 8, OUTA180223 6]

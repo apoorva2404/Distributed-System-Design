@@ -1,0 +1,229 @@
+Feb. 13, 2023 7:06:38 P.M. Client main
+INFO: User Entered
+Feb. 13, 2023 11:20:58 P.M. Client main
+INFO: User Entered
+Feb. 13, 2023 11:21:37 P.M. Client main
+INFO: User Entered
+Feb. 13, 2023 11:22:47 P.M. Client main
+INFO: User Entered
+Feb. 13, 2023 11:24:41 P.M. Client main
+INFO: User Entered
+Feb. 14, 2023 11:20:17 A.M. Client main
+INFO: User Entered
+Feb. 14, 2023 11:20:26 A.M. Client bookMovieTicket
+INFO: Exception encounterederror marshalling arguments; nested exception is: 
+	java.io.NotSerializableException: LoggerClass
+Feb. 14, 2023 11:25:11 A.M. Client main
+INFO: User Entered
+Feb. 14, 2023 11:25:36 A.M. Client bookMovieTicket
+INFO: Invalid movie id! Please enter correct movie id. 
+Feb. 14, 2023 11:25:40 A.M. Client main
+INFO: User Entered
+Feb. 14, 2023 11:25:56 A.M. Client bookMovieTicket
+INFO: Exception encounterederror marshalling arguments; nested exception is: 
+	java.io.NotSerializableException: LoggerClass
+Feb. 14, 2023 11:46:22 A.M. Client main
+INFO: User Entered
+Feb. 14, 2023 11:46:34 A.M. Client bookMovieTicket
+INFO: Invalid movie id! Please enter correct movie id. 
+Feb. 14, 2023 11:46:45 A.M. Client main
+INFO: User Entered
+Feb. 14, 2023 11:46:55 A.M. Client bookMovieTicket
+INFO: Invalid movie id! Please enter correct movie id. 
+Feb. 14, 2023 11:46:59 A.M. Client main
+INFO: User Entered
+Feb. 14, 2023 12:01:10 P.M. Client main
+INFO: User Entered
+Feb. 14, 2023 12:01:21 P.M. Client bookMovieTicket
+INFO: Booked movie ticketSorry! Movie show does not exist
+Feb. 14, 2023 6:37:34 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 6:37:37 P.M. Client getBookingSchedule
+INFO: []
+Feb. 14, 2023 6:38:27 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 6:41:17 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 6:41:43 P.M. Client bookMovieTicket
+INFO: Movie booked successfully!
+Feb. 14, 2023 6:42:18 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 6:42:36 P.M. Client bookMovieTicket
+INFO: Invalid movie id! Please enter correct movie id. 
+Feb. 14, 2023 6:43:13 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 6:43:28 P.M. Client bookMovieTicket
+INFO: Invalid movie id! Please enter correct movie id. 
+Feb. 14, 2023 6:44:47 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 6:45:01 P.M. Client bookMovieTicket
+INFO: Exception in bookMovieTickets
+Feb. 14, 2023 6:48:30 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 6:48:45 P.M. Client bookMovieTicket
+INFO: You cannot book more that 3 movie tickets
+Feb. 14, 2023 6:49:38 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 6:49:54 P.M. Client bookMovieTicket
+INFO: Movie booked successfully! 
+Feb. 14, 2023 6:50:00 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 6:50:17 P.M. Client bookMovieTicket
+INFO: Exception in bookMovieTickets
+Feb. 14, 2023 6:58:08 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 6:58:28 P.M. Client bookMovieTicket
+INFO: Sorry! we have only 4 seats available
+Feb. 14, 2023 6:59:05 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 6:59:21 P.M. Client bookMovieTicket
+INFO: Movie booked successfully! 
+Feb. 14, 2023 6:59:32 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:00:02 P.M. Client bookMovieTicket
+INFO: Exception in bookMovieTickets
+Feb. 14, 2023 7:03:39 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:03:51 P.M. Client bookMovieTicket
+INFO: Movie booked successfully! 
+Feb. 14, 2023 7:03:55 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:04:05 P.M. Client bookMovieTicket
+INFO: Exception in bookMovieTickets
+Feb. 14, 2023 7:05:31 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:05:50 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:06:00 P.M. Client bookMovieTicket
+INFO: Movie booked successfully! 
+Feb. 14, 2023 7:06:08 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:06:10 P.M. Client main
+INFO: Exception encounteredFor input string: "AVATAR"
+Feb. 14, 2023 7:06:28 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:06:35 P.M. Client bookMovieTicket
+INFO: Exception in bookMovieTickets
+Feb. 14, 2023 7:08:16 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:08:48 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:09:26 P.M. Client bookMovieTicket
+INFO: Movie booked successfully! 
+Feb. 14, 2023 7:09:32 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:10:11 P.M. Client bookMovieTicket
+INFO: Movie booked successfully!
+Feb. 14, 2023 7:25:13 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:25:23 P.M. Client bookMovieTicket
+INFO: Movie booked successfully! 
+Feb. 14, 2023 7:25:28 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:25:35 P.M. Client bookMovieTicket
+INFO: Movie booked successfully!
+Feb. 14, 2023 7:31:10 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:31:40 P.M. Client bookMovieTicket
+INFO: Exception encountered - Error unmarshaling return header; nested exception is: 
+	java.io.EOFException
+Feb. 14, 2023 7:32:21 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:32:29 P.M. Client bookMovieTicket
+INFO: Movie booked successfully! 
+Feb. 14, 2023 7:32:50 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:33:08 P.M. Client bookMovieTicket
+INFO: *You are already booked for the same slot!
+Feb. 14, 2023 7:33:25 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:33:31 P.M. Client getBookingSchedule
+INFO: [AVATAR ATWA150223 2]
+Feb. 14, 2023 7:33:51 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:34:09 P.M. Client bookMovieTicket
+INFO: Movie booked successfully!
+Feb. 14, 2023 7:34:13 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:34:23 P.M. Client bookMovieTicket
+INFO: You cannot book more that 3 movie tickets
+Feb. 14, 2023 7:34:32 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:34:59 P.M. Client bookMovieTicket
+INFO: Sorry! we have only 4 seats available
+Feb. 14, 2023 7:35:36 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:35:56 P.M. Client bookMovieTicket
+INFO: Invalid movie id! Please enter correct movie id. 
+Feb. 14, 2023 7:36:12 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:36:58 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:39:29 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:40:02 P.M. Client bookMovieTicket
+INFO: Movie booked successfully! 
+Feb. 14, 2023 7:40:15 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:40:33 P.M. Client bookMovieTicket
+INFO: Movie booked successfully! 
+Feb. 14, 2023 7:41:20 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:41:55 P.M. Client main
+INFO: Added movie slots successfully! 
+Feb. 14, 2023 7:42:03 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:42:24 P.M. Client main
+INFO: Removed Movie Slot!
+Feb. 14, 2023 7:42:50 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:42:51 P.M. Client getBookingSchedule
+INFO: [AVATAR ATWA150223 2, AVATAR ATWM170223 20, AVATAR ATWM180223 20, AVATAR OUTA180223 3]
+Feb. 14, 2023 7:48:02 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:48:08 P.M. Client main
+INFO: Available movie shows: [ATWA150223 4, ATWA160223 8, ATWM180223 25, VERM190223 3, VERA150223 4, VERA170223 5, OUTA150223 8, OUTA180223 3]
+Feb. 14, 2023 7:56:11 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:56:20 P.M. Client bookMovieTicket
+INFO: Movie booked successfully! 
+Feb. 14, 2023 7:56:34 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:56:41 P.M. Client main
+INFO: Removed Movie Slot!
+Feb. 14, 2023 7:56:51 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:56:53 P.M. Client getBookingSchedule
+INFO: [AVATAR ATWA150223 2, AVATAR ATWA160223 2]
+Feb. 14, 2023 8:05:31 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 8:05:43 P.M. Client bookMovieTicket
+INFO: Movie booked successfully! 
+Feb. 14, 2023 8:05:51 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 8:06:02 P.M. Client main
+INFO: Exception encounterednull
+Feb. 14, 2023 8:08:06 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 8:08:17 P.M. Client bookMovieTicket
+INFO: Movie booked successfully! 
+Feb. 14, 2023 8:08:21 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 8:08:29 P.M. Client main
+INFO: Removed Movie Slot!
+Feb. 14, 2023 8:08:38 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 8:08:39 P.M. Client getBookingSchedule
+INFO: [AVATAR ATWA160223 2]
+Feb. 14, 2023 8:56:52 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 8:57:12 P.M. Client bookMovieTicket
+INFO: Movie booked successfully! 2023-02-14T20:57:12.450657
+Feb. 14, 2023 8:57:32 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 8:58:17 P.M. Client bookMovieTicket
+INFO: You cannot book more that 3 movie tickets
+Feb. 14, 2023 9:07:58 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 9:08:16 P.M. Client bookMovieTicket
+INFO: Invalid movie id! Please enter correct movie id. 

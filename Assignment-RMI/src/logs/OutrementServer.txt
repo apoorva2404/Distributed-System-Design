@@ -1,0 +1,248 @@
+Feb. 13, 2023 7:04:23 P.M. Outrement main
+INFO: Outrement Started server
+Feb. 13, 2023 11:22:38 P.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 11:16:11 A.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 11:45:59 A.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 11:51:34 A.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 11:53:12 A.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 11:54:16 A.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 11:55:21 A.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 12:01:21 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 12:01:21 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 12:08:11 P.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 6:16:38 P.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 6:37:37 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 6:37:37 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 6:39:10 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Feb. 14, 2023 6:39:10 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [OUTA130223 8, OUTA120223 6]
+Feb. 14, 2023 6:39:47 P.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 6:40:46 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Feb. 14, 2023 6:40:46 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [OUTA150223 8, OUTA180223 6]
+Feb. 14, 2023 6:41:43 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 6:41:43 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 6:41:43 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 6:41:43 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 6:45:01 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 6:45:01 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 6:47:09 P.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 6:48:25 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Feb. 14, 2023 6:48:25 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [OUTA150223 8, OUTA180223 6]
+Feb. 14, 2023 6:48:45 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 6:48:45 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 6:49:54 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 6:49:54 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 6:50:17 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 6:50:17 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 6:57:44 P.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 6:58:28 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 6:58:28 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 6:59:21 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 6:59:21 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:00:02 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:00:02 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:03:30 P.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 7:03:51 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:03:51 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:04:05 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:04:05 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:05:26 P.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 7:06:00 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:06:00 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:06:35 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:06:35 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:08:09 P.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 7:09:26 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:09:26 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:10:11 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:10:11 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:10:11 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:10:11 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:25:06 P.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 7:25:23 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:25:23 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:25:35 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:25:35 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:25:35 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:25:35 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:30:50 P.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 7:31:22 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:31:22 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:32:04 P.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 7:32:29 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:32:29 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:33:07 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:33:07 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:33:08 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:33:08 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:33:31 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:33:31 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:34:09 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:34:09 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:34:09 P.M. RemoteImplementation bookMovieTickets
+INFO: Booking 3 tickets for movieAVATAR(OUTA180223)with customer id ATWC1234
+Feb. 14, 2023 7:34:09 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:34:09 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWA150223 2]
+Feb. 14, 2023 7:34:09 P.M. RemoteImplementation bookMovieTickets
+INFO: Movie booked successfully! 
+Feb. 14, 2023 7:34:23 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:34:23 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTA180223 3]
+Feb. 14, 2023 7:34:59 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:34:59 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTA180223 3]
+Feb. 14, 2023 7:40:02 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:40:02 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTA180223 3]
+Feb. 14, 2023 7:40:33 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC2345
+Feb. 14, 2023 7:40:33 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC2345 is: []
+Feb. 14, 2023 7:42:24 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC2345
+Feb. 14, 2023 7:42:24 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC2345 is: []
+Feb. 14, 2023 7:42:24 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:42:24 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTA180223 3]
+Feb. 14, 2023 7:42:51 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:42:51 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTA180223 3]
+Feb. 14, 2023 7:48:08 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Feb. 14, 2023 7:48:08 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [OUTA150223 8, OUTA180223 3]
+Feb. 14, 2023 7:55:13 P.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 7:56:20 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:56:20 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:56:41 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:56:41 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 7:56:53 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 7:56:53 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 8:03:43 P.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 8:05:43 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 8:05:43 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 8:08:00 P.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 8:08:17 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 8:08:17 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 8:08:29 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 8:08:29 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 8:08:39 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 8:08:39 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 8:56:30 P.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 8:57:12 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 8:57:12 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 8:58:17 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb. 14, 2023 8:58:17 P.M. RemoteImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb. 14, 2023 9:44:49 P.M. Outrement main
+INFO: Outrement Started server
+Feb. 14, 2023 9:46:27 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Feb. 14, 2023 9:46:27 P.M. RemoteImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [OUTA150223 8, OUTA180223 6]

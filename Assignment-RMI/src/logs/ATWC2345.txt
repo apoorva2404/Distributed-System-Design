@@ -1,0 +1,20 @@
+Feb. 14, 2023 7:40:15 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:40:33 P.M. Client bookMovieTicket
+INFO: Movie booked successfully! 
+Feb. 14, 2023 7:41:20 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:41:55 P.M. Client main
+INFO: Added movie slots successfully! 
+Feb. 14, 2023 7:42:03 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:42:24 P.M. Client main
+INFO: Removed Movie Slot!
+Feb. 14, 2023 7:42:50 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:42:51 P.M. Client getBookingSchedule
+INFO: [AVATAR ATWA150223 2, AVATAR ATWM170223 20, AVATAR ATWM180223 20, AVATAR OUTA180223 3]
+Feb. 14, 2023 7:48:02 P.M. Client main
+INFO: User Entered 
+Feb. 14, 2023 7:48:08 P.M. Client main
+INFO: Available movie shows: [ATWA150223 4, ATWA160223 8, ATWM180223 25, VERM190223 3, VERA150223 4, VERA170223 5, OUTA150223 8, OUTA180223 3]
