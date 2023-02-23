@@ -1,0 +1,19 @@
+module BookMyShowApp {
+    typedef sequence<string> MovieAvailability;
+    typedef sequence<string> MoviesBooked; 
+    interface BookingInterface {
+        // Admin
+        string addMovieSlots (in string movieID, in string movieName, in long bookingCapacity);
+        string removeMovieSlots (in string movieID, in string movieName);
+        MovieAvailability listMovieShowsAvailability (in string movieName, in boolean isClientCall);
+
+        // Customer
+        string bookMovieTickets (in string customerID, in string movieID, in string movieName, in long numberOfTickets, in boolean isClientCall);
+        MoviesBooked getBookingSchedule (in string customerID, in boolean isClientCall);
+        string cancelMovieTickets (in string customerID, in string movieID, in string movieName, in long numberOfTickets, in boolean isClient);
+
+        string exchangeTickets(in string customerID, in string curr_movieID, in string new_movieID, in string new_movieName, in long numberOfTickets);
+
+        oneway void shutdown();
+    };
+};

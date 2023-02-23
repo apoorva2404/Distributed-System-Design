@@ -1,0 +1,190 @@
+Feb 21, 2023 1:40:17 PM Verdun main
+INFO: Verdun Started server
+Feb 21, 2023 1:52:20 PM Verdun main
+INFO: Verdun Started server
+Feb 21, 2023 1:57:47 PM Verdun main
+INFO: Verdun Started server
+Feb 21, 2023 2:02:29 PM Verdun main
+INFO: Verdun Started server
+Feb 21, 2023 2:05:24 PM Verdun main
+INFO: Verdun Started server
+Feb 21, 2023 2:08:53 PM Verdun main
+INFO: Verdun Started server
+Feb 21, 2023 2:11:11 PM Verdun main
+INFO: Verdun Started server
+Feb 21, 2023 2:14:02 PM Verdun main
+INFO: Verdun Started server
+Feb 21, 2023 2:16:12 PM Verdun main
+INFO: Verdun Started server
+Feb 21, 2023 2:18:14 PM Verdun main
+INFO: Verdun Started server
+Feb 21, 2023 2:21:06 PM Verdun main
+INFO: Verdun Started server
+Feb 21, 2023 2:23:40 PM Verdun main
+INFO: Verdun Started server
+Feb 22, 2023 5:00:47 PM Verdun main
+INFO: Verdun Started server
+Feb 22, 2023 5:01:06 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 22, 2023 5:01:06 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 22, 2023 5:01:47 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Feb 22, 2023 5:01:47 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Feb 22, 2023 5:02:53 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Feb 22, 2023 5:02:53 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Feb 22, 2023 5:07:02 PM Verdun main
+INFO: Verdun Started server
+Feb 22, 2023 5:08:04 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Feb 22, 2023 5:08:04 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Feb 22, 2023 5:10:04 PM Verdun main
+INFO: Verdun Started server
+Feb 22, 2023 5:11:00 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Feb 22, 2023 5:11:00 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Feb 22, 2023 6:20:12 PM Verdun main
+INFO: Verdun Started server
+Feb 22, 2023 6:22:39 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Feb 22, 2023 6:22:39 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Feb 22, 2023 6:26:11 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 22, 2023 6:26:11 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 22, 2023 6:27:42 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 22, 2023 6:27:42 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 22, 2023 6:27:42 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Feb 22, 2023 6:27:42 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC []
+Feb 22, 2023 6:27:42 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 22, 2023 6:27:42 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 22, 2023 6:27:57 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 22, 2023 6:27:57 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 22, 2023 6:32:15 PM Verdun main
+INFO: Verdun Started server
+Feb 22, 2023 6:33:40 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 22, 2023 6:33:40 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 22, 2023 6:34:34 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 22, 2023 6:34:34 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 22, 2023 6:34:34 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Feb 22, 2023 6:34:34 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC []
+Feb 22, 2023 6:34:34 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 22, 2023 6:34:34 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 22, 2023 6:35:01 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 22, 2023 6:35:01 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 23, 2023 12:17:37 AM Verdun main
+INFO: Verdun Started server
+Feb 23, 2023 12:20:04 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 23, 2023 12:20:04 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 23, 2023 12:21:58 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 23, 2023 12:21:58 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 23, 2023 12:21:58 AM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Feb 23, 2023 12:21:58 AM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC []
+Feb 23, 2023 12:21:58 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 23, 2023 12:21:58 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 23, 2023 12:22:47 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 23, 2023 12:22:47 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 23, 2023 12:27:37 AM Verdun main
+INFO: Verdun Started server
+Feb 23, 2023 12:29:03 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 23, 2023 12:29:03 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 23, 2023 12:30:38 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 23, 2023 12:30:38 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 23, 2023 12:30:38 AM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Feb 23, 2023 12:30:38 AM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC []
+Feb 23, 2023 12:30:38 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 23, 2023 12:30:38 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 23, 2023 12:37:41 AM Verdun main
+INFO: Verdun Started server
+Feb 23, 2023 12:39:11 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 23, 2023 12:39:11 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 23, 2023 12:39:39 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 23, 2023 12:39:39 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 23, 2023 12:39:39 AM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Feb 23, 2023 12:39:39 AM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC []
+Feb 23, 2023 12:39:39 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 23, 2023 12:39:39 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 23, 2023 12:40:02 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 23, 2023 12:40:02 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 23, 2023 12:48:59 AM Verdun main
+INFO: Verdun Started server
+Feb 23, 2023 12:49:57 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 23, 2023 12:49:57 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 23, 2023 12:50:43 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 23, 2023 12:50:43 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 23, 2023 12:50:43 AM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Feb 23, 2023 12:50:43 AM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC []
+Feb 23, 2023 12:50:43 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 23, 2023 12:50:43 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 23, 2023 12:50:49 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Feb 23, 2023 12:50:49 AM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Feb 23, 2023 12:51:14 AM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Feb 23, 2023 12:51:14 AM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Feb 23, 2023 12:51:36 AM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Feb 23, 2023 12:51:36 AM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC []
