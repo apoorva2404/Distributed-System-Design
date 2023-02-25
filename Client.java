@@ -317,6 +317,8 @@ public class Client {
 
                         System.out.println("Press 6 to cancel movie tickets. ");
 
+                        System.out.println("Press 7 to exchange movie tickets. ");
+
                         String userInput = br.readLine();
                         if(Integer.parseInt(userInput) == 1) {
                             System.out.println("Enter movie name: ");
@@ -409,6 +411,8 @@ public class Client {
                             getBookingSchedule(ID, R, logInfo);
                         } else if(Integer.parseInt(userInput) == 6) {
                             cancelMovieTicket(ID, R, logInfo);
+                        } else if(Integer.parseInt(userInput) == 7) {
+                            exchangeMovieTicket(ID, R, logInfo);
                         } else {
                             System.out.println("Please enter a valid input! ");
                             logInfo.logger.info("Please enter a valid input! ");
@@ -419,6 +423,8 @@ public class Client {
                         System.out.println("Press 2 to get booking schedule. ");
 
                         System.out.println("Press 3 to cancel movie tickets. ");
+
+                        System.out.println("Press 4 to exchange movie tickets. ");
 
                         String userInput = br.readLine();
                         if(Integer.parseInt(userInput) == 1) {
