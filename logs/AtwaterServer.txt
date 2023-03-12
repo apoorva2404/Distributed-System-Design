@@ -424,3 +424,851 @@ Feb 23, 2023 12:51:36 AM BookingServerImpl listMovieShowsAvailability
 INFO: Available Movie shows forTITANIC
 Feb 23, 2023 12:51:36 AM BookingServerImpl listMovieShowsAvailability
 INFO: Available Movie shows forTITANIC [ATWE240223 5]
+Mar 06, 2023 2:24:07 PM Atwater main
+INFO: Atwater Started server
+Mar 06, 2023 2:26:59 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM070323 AVATAR
+Mar 06, 2023 2:26:59 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T14:26:59.488
+Mar 06, 2023 2:27:34 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 2:27:34 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM070323 5]
+Mar 06, 2023 2:27:53 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 06, 2023 2:27:53 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC []
+Mar 06, 2023 2:29:44 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWA070323 AVATAR
+Mar 06, 2023 2:29:44 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T14:29:44.939
+Mar 06, 2023 2:30:16 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM070323)with customer id ATWC1234
+Mar 06, 2023 2:30:16 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 2:30:16 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 2:30:16 PM BookingServerImpl bookMovieTickets
+INFO: Movie booked successfully! 2023-03-06T14:30:16.716
+Mar 06, 2023 2:30:50 PM BookingServerImpl removeMovieSlots
+INFO: Removing moving slots for ATWM070323 AVATAR
+Mar 06, 2023 2:30:50 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 2:30:50 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM070323 3, ATWA070323 5]
+Mar 06, 2023 2:30:50 PM BookingServerImpl removeMovieSlots
+INFO: No other slots available. Please refund the amount to customers as the slot has been removed
+Mar 06, 2023 2:31:22 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 2:31:22 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWA070323 5]
+Mar 06, 2023 2:31:45 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWA070323 AVATAR
+Mar 06, 2023 2:31:45 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T14:31:45.601
+Mar 06, 2023 2:31:52 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 2:31:52 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWA070323 10]
+Mar 06, 2023 2:32:20 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM070323 AVATAR
+Mar 06, 2023 2:32:20 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T14:32:20.366
+Mar 06, 2023 2:32:33 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 2:32:33 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM070323 5, ATWA070323 10]
+Mar 06, 2023 2:33:00 PM BookingServerImpl bookMovieTickets
+INFO: Booking 4 tickets for movieAVATAR(ATWM070323)with customer id ATWC1234
+Mar 06, 2023 2:33:00 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 2:33:00 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 2:33:00 PM BookingServerImpl bookMovieTickets
+INFO: Movie booked successfully! 2023-03-06T14:33:00.416
+Mar 06, 2023 2:33:06 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 2:33:06 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 4]
+Mar 06, 2023 2:33:22 PM BookingServerImpl removeMovieSlots
+INFO: Removing moving slots for ATWM070323 AVATAR
+Mar 06, 2023 2:33:23 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 2:33:23 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM070323 1, ATWA070323 10]
+Mar 06, 2023 2:33:23 PM BookingServerImpl removeMovieSlots
+INFO: No other slots available. Please refund the amount to customers as the slot has been removed
+Mar 06, 2023 2:34:31 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 2:34:31 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWA070323 10]
+Mar 06, 2023 2:38:48 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM070323 AVATAR
+Mar 06, 2023 2:38:48 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T14:38:48.217
+Mar 06, 2023 2:39:26 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWA070323 AVATAR
+Mar 06, 2023 2:39:26 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T14:39:26.675
+Mar 06, 2023 2:39:40 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 2:39:40 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM070323 5, ATWA070323 15]
+Mar 06, 2023 2:47:43 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM070323)with customer id ATWC1234
+Mar 06, 2023 2:47:43 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 2:47:44 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 2:47:44 PM BookingServerImpl bookMovieTickets
+INFO: Movie booked successfully! 2023-03-06T14:47:44.827
+Mar 06, 2023 5:27:23 PM Atwater main
+INFO: Atwater Started server
+Mar 06, 2023 5:30:27 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM070323 AVATAR
+Mar 06, 2023 5:30:27 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T17:30:27.621
+Mar 06, 2023 5:31:08 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWE070323 AVATAR
+Mar 06, 2023 5:31:08 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T17:31:08.276
+Mar 06, 2023 5:31:17 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 5:31:17 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM070323 5, ATWE070323 5]
+Mar 06, 2023 5:31:48 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM070323)with customer id ATWC1234
+Mar 06, 2023 5:31:48 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:31:48 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 5:31:48 PM BookingServerImpl bookMovieTickets
+INFO: Movie booked successfully! 2023-03-06T17:31:48.149
+Mar 06, 2023 5:32:01 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:32:01 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 5:32:11 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 5:32:11 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM070323 3, ATWE070323 5]
+Mar 06, 2023 5:33:41 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:33:41 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 5:33:41 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 5:33:41 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM070323 3, ATWE070323 5]
+Mar 06, 2023 5:33:41 PM BookingServerImpl exchangeTickets
+INFO: No shows for AVATAR ATWE070323
+Mar 06, 2023 5:34:55 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 5:34:55 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM070323 3, ATWE070323 5]
+Mar 06, 2023 5:35:30 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:35:30 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 5:35:30 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 5:35:30 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM070323 3, ATWE070323 5]
+Mar 06, 2023 5:35:30 PM BookingServerImpl exchangeTickets
+INFO: No shows for AVATAR ATWE070323
+Mar 06, 2023 5:38:23 PM Atwater main
+INFO: Atwater Started server
+Mar 06, 2023 5:38:51 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM070323 AVATAR
+Mar 06, 2023 5:38:51 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T17:38:51.339
+Mar 06, 2023 5:39:08 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWE070323 AVATAR
+Mar 06, 2023 5:39:08 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T17:39:08.809
+Mar 06, 2023 5:39:20 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 5:39:20 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM070323 5, ATWE070323 5]
+Mar 06, 2023 5:39:38 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM070323)with customer id ATWC1234
+Mar 06, 2023 5:39:38 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:39:38 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 5:39:38 PM BookingServerImpl bookMovieTickets
+INFO: Movie booked successfully! 2023-03-06T17:39:38.932
+Mar 06, 2023 5:39:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:39:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 5:40:03 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:40:03 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 5:41:09 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:41:09 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 5:41:09 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 5:41:09 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM070323 3, ATWE070323 5]
+Mar 06, 2023 5:41:09 PM BookingServerImpl exchangeTickets
+INFO: No shows for AVATAR ATWE070323
+Mar 06, 2023 5:44:23 PM Atwater main
+INFO: Atwater Started server
+Mar 06, 2023 5:45:09 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM070323 AVATAR
+Mar 06, 2023 5:45:09 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T17:45:09.723
+Mar 06, 2023 5:45:26 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWE070323 AVATAR
+Mar 06, 2023 5:45:26 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T17:45:26.467
+Mar 06, 2023 5:45:40 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM070323)with customer id ATWC1234
+Mar 06, 2023 5:45:40 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:45:40 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 5:45:40 PM BookingServerImpl bookMovieTickets
+INFO: Movie booked successfully! 2023-03-06T17:45:40.525
+Mar 06, 2023 5:45:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:45:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 5:46:23 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:46:23 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 5:46:23 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 5:46:23 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM070323 3, ATWE070323 5]
+Mar 06, 2023 5:46:23 PM BookingServerImpl exchangeTickets
+INFO: No shows for AVATAR ATWE070323
+Mar 06, 2023 5:46:23 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWE070323)with customer id ATWC1234
+Mar 06, 2023 5:46:23 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:46:23 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 5:46:23 PM BookingServerImpl bookMovieTickets
+INFO: Movie booked successfully! 2023-03-06T17:46:23.891
+Mar 06, 2023 5:46:23 PM BookingServerImpl cancelMovieTickets
+INFO: Cancel 2 tickets for movieAVATAR with customer id ATWC1234 movieid ATWM070323
+Mar 06, 2023 5:46:23 PM BookingServerImpl cancelMovieTickets
+INFO: Cancelled movie tickets successfully 
+Mar 06, 2023 5:46:23 PM BookingServerImpl exchangeTickets
+INFO: You have successfully exchanged the tickets
+Mar 06, 2023 5:46:32 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:46:32 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWE070323 2]
+Mar 06, 2023 5:46:45 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 5:46:45 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM070323 5, ATWE070323 3]
+Mar 06, 2023 6:14:40 PM Atwater main
+INFO: Atwater Started server
+Mar 06, 2023 6:19:23 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM070323 AVATAR
+Mar 06, 2023 6:19:23 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T18:19:23.454
+Mar 06, 2023 6:19:48 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWE070323 AVENGERS
+Mar 06, 2023 6:19:48 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T18:19:48.664
+Mar 06, 2023 6:21:23 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:21:23 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM070323 5]
+Mar 06, 2023 6:21:34 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 06, 2023 6:21:34 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC [VERM070323 4]
+Mar 06, 2023 6:21:51 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVENGERS
+Mar 06, 2023 6:21:51 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVENGERS [ATWE070323 5]
+Mar 06, 2023 6:22:17 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:22:17 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM070323 5]
+Mar 06, 2023 6:23:38 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieTITANIC(VERM070323)with customer id ATWC1234
+Mar 06, 2023 6:23:38 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:23:38 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:23:38 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:23:38 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:23:48 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:23:48 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [TITANIC VERM070323 2]
+Mar 06, 2023 6:24:17 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM070323)with customer id ATWC1234
+Mar 06, 2023 6:24:17 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:24:17 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [TITANIC VERM070323 2]
+Mar 06, 2023 6:24:17 PM BookingServerImpl bookMovieTickets
+INFO: Movie booked successfully! 2023-03-06T18:24:17.283
+Mar 06, 2023 6:24:28 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:24:28 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2, TITANIC VERM070323 2]
+Mar 06, 2023 6:25:08 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:25:08 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM070323 3]
+Mar 06, 2023 6:25:23 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWE070323 AVATAR
+Mar 06, 2023 6:25:23 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T18:25:23.433
+Mar 06, 2023 6:26:28 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:26:28 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2, TITANIC VERM070323 2]
+Mar 06, 2023 6:27:01 PM BookingServerImpl removeMovieSlots
+INFO: Removing moving slots for ATWM070323 AVATAR
+Mar 06, 2023 6:27:01 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:27:01 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM070323 3, ATWE070323 5]
+Mar 06, 2023 6:27:01 PM BookingServerImpl removeMovieSlots
+INFO: No other slots available. Please refund the amount to customers as the slot has been removed
+Mar 06, 2023 6:30:31 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM080323 AVATAR
+Mar 06, 2023 6:30:31 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T18:30:31.134
+Mar 06, 2023 6:30:37 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:30:37 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM080323 5, ATWE070323 5]
+Mar 06, 2023 6:31:32 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWE070323)with customer id ATWC1234
+Mar 06, 2023 6:31:32 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:31:32 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [TITANIC VERM070323 2]
+Mar 06, 2023 6:31:32 PM BookingServerImpl bookMovieTickets
+INFO: Movie booked successfully! 2023-03-06T18:31:32.692
+Mar 06, 2023 6:31:38 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:31:38 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWE070323 2, TITANIC VERM070323 2]
+Mar 06, 2023 6:32:00 PM BookingServerImpl removeMovieSlots
+INFO: Removing moving slots for ATWM080323 AVATAR
+Mar 06, 2023 6:32:00 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:32:00 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM080323 5, ATWE070323 3]
+Mar 06, 2023 6:32:00 PM BookingServerImpl removeMovieSlots
+INFO: No other slots available. Please refund the amount to customers as the slot has been removed
+Mar 06, 2023 6:34:42 PM Atwater main
+INFO: Atwater Started server
+Mar 06, 2023 6:35:29 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM070323 AVATAR
+Mar 06, 2023 6:35:29 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T18:35:29.893
+Mar 06, 2023 6:36:01 PM BookingServerImpl addMovieSlots
+INFO: Adding 20 slots for ATWE080323 AVENGERS
+Mar 06, 2023 6:36:01 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T18:36:01.920
+Mar 06, 2023 6:37:15 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM080323 AVATAR
+Mar 06, 2023 6:37:15 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T18:37:15.870
+Mar 06, 2023 6:37:24 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:37:24 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM080323 5, ATWM070323 5]
+Mar 06, 2023 6:37:53 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM070323)with customer id ATWC1234
+Mar 06, 2023 6:37:53 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:37:53 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:37:53 PM BookingServerImpl bookMovieTickets
+INFO: Movie booked successfully! 2023-03-06T18:37:53.557
+Mar 06, 2023 6:38:05 PM BookingServerImpl removeMovieSlots
+INFO: Removing moving slots for ATWM070323 AVATAR
+Mar 06, 2023 6:38:05 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:38:05 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM080323 5, ATWM070323 3]
+Mar 06, 2023 6:38:05 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM080323)with customer id ATWC1234
+Mar 06, 2023 6:38:05 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:38:05 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:38:05 PM BookingServerImpl bookMovieTickets
+INFO: Movie booked successfully! 2023-03-06T18:38:05.615
+Mar 06, 2023 6:38:05 PM BookingServerImpl removeMovieSlots
+INFO: Removed Movie Slot! 2023-03-06T18:38:05.617
+Mar 06, 2023 6:38:18 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:38:18 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM080323 2]
+Mar 06, 2023 6:40:31 PM Atwater main
+INFO: Atwater Started server
+Mar 06, 2023 6:41:17 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM070323 AVATAR
+Mar 06, 2023 6:41:17 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T18:41:17.441
+Mar 06, 2023 6:41:55 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM080323 AVATAR
+Mar 06, 2023 6:41:55 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T18:41:55.937
+Mar 06, 2023 6:42:04 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:42:04 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM080323 5, ATWM070323 5]
+Mar 06, 2023 6:42:48 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM070323)with customer id ATWC1234
+Mar 06, 2023 6:42:48 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:42:49 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:42:49 PM BookingServerImpl bookMovieTickets
+INFO: Movie booked successfully! 2023-03-06T18:42:49.017
+Mar 06, 2023 6:42:54 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:42:54 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 6:43:07 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:43:07 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM080323 5, ATWM070323 3]
+Mar 06, 2023 6:43:43 PM BookingServerImpl removeMovieSlots
+INFO: Removing moving slots for ATWM070323 AVATAR
+Mar 06, 2023 6:43:44 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:43:44 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM080323 5, ATWM070323 3]
+Mar 06, 2023 6:43:44 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM080323)with customer id ATWC1234
+Mar 06, 2023 6:43:44 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:43:44 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:43:44 PM BookingServerImpl bookMovieTickets
+INFO: Movie booked successfully! 2023-03-06T18:43:44.050
+Mar 06, 2023 6:43:44 PM BookingServerImpl removeMovieSlots
+INFO: Removed Movie Slot! 2023-03-06T18:43:44.051
+Mar 06, 2023 6:43:50 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:43:50 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM080323 2]
+Mar 06, 2023 6:44:20 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:44:20 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM080323 3]
+Mar 06, 2023 6:45:15 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:45:15 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM080323 2]
+Mar 06, 2023 6:46:05 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:46:05 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM080323 2]
+Mar 06, 2023 6:46:05 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 06, 2023 6:46:05 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC [VERE080323 5]
+Mar 06, 2023 6:46:05 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieTITANIC(VERE080323)with customer id ATWC1234
+Mar 06, 2023 6:46:05 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:46:05 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM080323 2]
+Mar 06, 2023 6:46:05 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:46:05 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM080323 2]
+Mar 06, 2023 6:46:05 PM BookingServerImpl exchangeTickets
+INFO: 
+Mar 06, 2023 6:49:11 PM Atwater main
+INFO: Atwater Started server
+Mar 06, 2023 6:50:05 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM070323 AVATAR
+Mar 06, 2023 6:50:05 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T18:50:05.396
+Mar 06, 2023 6:50:21 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM080323 AVATAR
+Mar 06, 2023 6:50:21 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T18:50:21.088
+Mar 06, 2023 6:51:54 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM070323)with customer id ATWC1234
+Mar 06, 2023 6:51:54 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:51:54 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:51:54 PM BookingServerImpl bookMovieTickets
+INFO: Movie booked successfully! 2023-03-06T18:51:54.944
+Mar 06, 2023 6:53:17 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:53:17 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 6:53:17 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:53:17 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM080323 5, ATWM070323 3]
+Mar 06, 2023 6:53:17 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM080323)with customer id ATWC1234
+Mar 06, 2023 6:53:17 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:53:17 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 6:53:17 PM BookingServerImpl bookMovieTickets
+INFO: Movie booked successfully! 2023-03-06T18:53:17.605
+Mar 06, 2023 6:53:17 PM BookingServerImpl cancelMovieTickets
+INFO: Cancel 2 tickets for movieAVATAR with customer id ATWC1234 movieid ATWM070323
+Mar 06, 2023 6:53:17 PM BookingServerImpl cancelMovieTickets
+INFO: Cancelled movie tickets successfully 
+Mar 06, 2023 6:53:17 PM BookingServerImpl exchangeTickets
+INFO: You have successfully exchanged the tickets
+Mar 06, 2023 6:53:44 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:53:44 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM080323 3, ATWM070323 5]
+Mar 06, 2023 6:58:52 PM Atwater main
+INFO: Atwater Started server
+Mar 06, 2023 7:03:59 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM070323 AVATAR
+Mar 06, 2023 7:03:59 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T19:03:59.820
+Mar 06, 2023 7:04:54 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM070323)with customer id ATWC1234
+Mar 06, 2023 7:04:54 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:04:54 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 7:04:54 PM BookingServerImpl bookMovieTickets
+INFO: Movie booked successfully! 2023-03-06T19:04:54.825
+Mar 06, 2023 7:05:04 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:05:04 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 7:06:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:06:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 7:06:46 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 06, 2023 7:06:46 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC [VERM080323 5]
+Mar 06, 2023 7:06:46 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieTITANIC(VERM080323)with customer id ATWC1234
+Mar 06, 2023 7:06:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:06:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 7:06:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:06:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 7:06:46 PM BookingServerImpl exchangeTickets
+INFO: 
+Mar 06, 2023 7:06:54 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:06:54 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2, TITANIC VERM080323 2]
+Mar 06, 2023 7:10:21 PM Atwater main
+INFO: Atwater Started server
+Mar 06, 2023 7:11:02 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM070323 AVATAR
+Mar 06, 2023 7:11:02 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T19:11:02.375
+Mar 06, 2023 7:12:37 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM070323)with customer id ATWC1234
+Mar 06, 2023 7:12:37 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:12:37 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 7:12:37 PM BookingServerImpl bookMovieTickets
+INFO: Movie booked successfully! 2023-03-06T19:12:37.864
+Mar 06, 2023 7:13:57 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:13:57 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 7:13:57 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 06, 2023 7:13:57 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC [VERM080323 5]
+Mar 06, 2023 7:13:57 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieTITANIC(VERM080323)with customer id ATWC1234
+Mar 06, 2023 7:13:57 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:13:57 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 7:13:57 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:13:57 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 7:13:57 PM BookingServerImpl exchangeTickets
+INFO: 
+Mar 06, 2023 7:20:07 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieTITANIC(VERM080323)with customer id ATWC1234
+Mar 06, 2023 7:20:07 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:21:39 PM Atwater main
+INFO: Atwater Started server
+Mar 06, 2023 7:22:23 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM070323 AVATAR
+Mar 06, 2023 7:22:23 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T19:22:23.126
+Mar 06, 2023 7:23:26 PM Atwater main
+INFO: Atwater Started server
+Mar 06, 2023 7:23:54 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM070323 AVATAR
+Mar 06, 2023 7:23:54 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T19:23:54.445
+Mar 06, 2023 7:24:28 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieTITANIC(VERM080323)with customer id ATWC1234
+Mar 06, 2023 7:24:28 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:24:28 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 7:24:28 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:24:28 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 7:24:36 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:24:36 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [TITANIC VERM080323 2]
+Mar 06, 2023 7:50:29 PM Atwater main
+INFO: Atwater Started server
+Mar 06, 2023 7:50:50 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM070323 AVATAR
+Mar 06, 2023 7:50:50 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T19:50:50.739
+Mar 06, 2023 7:51:36 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieTITANIC(VERM080323)with customer id ATWC1234
+Mar 06, 2023 7:51:36 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:51:36 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 7:51:36 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:51:36 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:08:21 PM Atwater main
+INFO: Atwater Started server
+Mar 06, 2023 8:08:48 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM070323 AVATAR
+Mar 06, 2023 8:08:48 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T20:08:48.952
+Mar 06, 2023 8:09:15 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieTITANIC(VERM080323)with customer id ATWC1234
+Mar 06, 2023 8:09:15 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:09:16 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:09:16 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:09:16 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:09:23 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:09:23 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [TITANIC VERM080323 2]
+Mar 06, 2023 8:25:45 PM Atwater main
+INFO: Atwater Started server
+Mar 06, 2023 8:26:06 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM070323 AVATAR
+Mar 06, 2023 8:26:06 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T20:26:06.760
+Mar 06, 2023 8:26:40 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieTITANIC(VERM080323)with customer id ATWC1234
+Mar 06, 2023 8:26:40 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:26:40 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:26:40 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:26:40 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:27:26 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:27:26 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [TITANIC VERM080323 2]
+Mar 06, 2023 8:27:26 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 8:27:26 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM070323 5]
+Mar 06, 2023 8:27:26 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM070323)with customer id ATWC1234
+Mar 06, 2023 8:27:26 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:27:26 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [TITANIC VERM080323 2]
+Mar 06, 2023 8:27:26 PM BookingServerImpl bookMovieTickets
+INFO: Movie booked successfully! 2023-03-06T20:27:26.244
+Mar 06, 2023 8:27:26 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM070323)with customer id ATWC1234
+Mar 06, 2023 8:27:26 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:27:26 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2, TITANIC VERM080323 2]
+Mar 06, 2023 8:27:26 PM BookingServerImpl bookMovieTickets
+INFO: You are already booked for the same slot! 
+Mar 06, 2023 8:27:26 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM070323)with customer id ATWC1234
+Mar 06, 2023 8:27:26 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:27:26 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2, TITANIC VERM080323 2]
+Mar 06, 2023 8:27:26 PM BookingServerImpl bookMovieTickets
+INFO: You are already booked for the same slot! 
+Mar 06, 2023 8:27:26 PM BookingServerImpl exchangeTickets
+INFO: You are already booked for the same slot! 
+Mar 06, 2023 8:27:38 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:27:38 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2, TITANIC VERM080323 2]
+Mar 06, 2023 8:28:41 PM Atwater main
+INFO: Atwater Started server
+Mar 06, 2023 8:29:10 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM070323 AVATAR
+Mar 06, 2023 8:29:10 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T20:29:10.110
+Mar 06, 2023 8:29:49 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 8:29:49 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM070323 5]
+Mar 06, 2023 8:30:17 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 06, 2023 8:30:17 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC []
+Mar 06, 2023 8:30:56 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM070323)with customer id ATWC1234
+Mar 06, 2023 8:30:56 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:30:56 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:30:56 PM BookingServerImpl bookMovieTickets
+INFO: Movie booked successfully! 2023-03-06T20:30:56.641
+Mar 06, 2023 8:31:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:31:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 8:31:46 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 06, 2023 8:31:46 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC [VERM080323 5]
+Mar 06, 2023 8:31:46 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieTITANIC(VERM080323)with customer id ATWC1234
+Mar 06, 2023 8:31:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:31:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 8:31:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:31:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 8:31:46 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieTITANIC(VERM080323)with customer id ATWC1234
+Mar 06, 2023 8:31:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:31:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2, TITANIC VERM080323 2]
+Mar 06, 2023 8:31:46 PM BookingServerImpl bookMovieTickets
+INFO: You cannot book more that 3 movie tickets
+Mar 06, 2023 8:31:46 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieTITANIC(VERM080323)with customer id ATWC1234
+Mar 06, 2023 8:31:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:31:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2, TITANIC VERM080323 2]
+Mar 06, 2023 8:31:46 PM BookingServerImpl bookMovieTickets
+INFO: You cannot book more that 3 movie tickets
+Mar 06, 2023 8:31:46 PM BookingServerImpl exchangeTickets
+INFO: You cannot book more that 3 movie tickets
+Mar 06, 2023 8:48:23 PM Atwater main
+INFO: Atwater Started server
+Mar 06, 2023 8:48:56 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM070323 AVATAR
+Mar 06, 2023 8:48:56 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T20:48:56.526
+Mar 06, 2023 8:51:46 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM070323)with customer id ATWC1234
+Mar 06, 2023 8:51:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:51:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:51:46 PM BookingServerImpl bookMovieTickets
+INFO: Movie booked successfully! 2023-03-06T20:51:46.334
+Mar 06, 2023 8:53:47 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:53:47 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 8:53:47 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 06, 2023 8:53:47 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC [VERM080323 5]
+Mar 06, 2023 8:53:47 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieTITANIC(VERM080323)with customer id ATWC1234
+Mar 06, 2023 8:53:47 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:53:47 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 8:53:47 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:53:47 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 8:53:47 PM BookingServerImpl exchangeTickets
+INFO: Movie booked successfully!
+Mar 06, 2023 8:54:27 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:54:27 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2, TITANIC VERM080323 2]
+Mar 06, 2023 8:55:52 PM Atwater main
+INFO: Atwater Started server
+Mar 06, 2023 8:56:17 PM BookingServerImpl addMovieSlots
+INFO: Adding 5 slots for ATWM070323 AVATAR
+Mar 06, 2023 8:56:17 PM BookingServerImpl addMovieSlots
+INFO: Added movie slots successfully 2023-03-06T20:56:17.852
+Mar 06, 2023 8:56:56 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM070323)with customer id ATWC1234
+Mar 06, 2023 8:56:56 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:56:56 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:56:56 PM BookingServerImpl bookMovieTickets
+INFO: Movie booked successfully! 2023-03-06T20:56:56.648
+Mar 06, 2023 8:57:33 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:57:33 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 8:57:33 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 06, 2023 8:57:33 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC [VERM080323 5]
+Mar 06, 2023 8:57:33 PM BookingServerImpl bookMovieTickets
+INFO: Booking 2 tickets for movieTITANIC(VERM080323)with customer id ATWC1234
+Mar 06, 2023 8:57:33 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:57:33 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 8:57:33 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:57:33 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM070323 2]
+Mar 06, 2023 8:57:33 PM BookingServerImpl cancelMovieTickets
+INFO: Cancel 2 tickets for movieAVATAR with customer id ATWC1234 movieid ATWM070323
+Mar 06, 2023 8:57:34 PM BookingServerImpl cancelMovieTickets
+INFO: Cancelled movie tickets successfully 
+Mar 06, 2023 8:57:34 PM BookingServerImpl exchangeTickets
+INFO: You have successfully exchanged the tickets
+Mar 06, 2023 8:59:53 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:59:53 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [TITANIC VERM080323 2]

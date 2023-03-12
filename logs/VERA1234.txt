@@ -1,0 +1,258 @@
+Mar 06, 2023 6:20:04 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:20:31 PM Client main
+INFO: Added movie slots successfully! 
+Mar 06, 2023 6:20:47 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:21:14 PM Client bookMovieTicket
+INFO: Invalid movie name! Please enter movies from Avatar, Avengers and Titanic. 
+Mar 06, 2023 6:21:18 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:21:23 PM Client main
+INFO: Available movie shows: [ATWM070323 5] 2023-03-06T18:21:23.866
+Mar 06, 2023 6:21:28 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:21:34 PM Client main
+INFO: Available movie shows: [VERM070323 4] 2023-03-06T18:21:34.200
+Mar 06, 2023 6:21:43 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:21:51 PM Client main
+INFO: Available movie shows: [ATWE070323 5] 2023-03-06T18:21:51.131
+Mar 06, 2023 6:22:13 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:22:17 PM Client main
+INFO: Available movie shows: [ATWM070323 5] 2023-03-06T18:22:17.684
+Mar 06, 2023 6:22:38 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:22:46 PM Client main
+INFO: Invalid movie name! Please enter movies from Avatar, Avengers and Titanic. 
+Mar 06, 2023 6:22:54 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:23:38 PM Client bookMovieTicket
+INFO: 
+Mar 06, 2023 6:23:47 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:23:48 PM Client getBookingSchedule
+INFO: [TITANIC VERM070323 2] 2023-03-06T18:23:48.889
+Mar 06, 2023 6:24:03 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:24:17 PM Client bookMovieTicket
+INFO: Movie booked successfully! 
+Mar 06, 2023 6:24:21 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:24:28 PM Client getBookingSchedule
+INFO: [AVATAR ATWM070323 2, TITANIC VERM070323 2] 2023-03-06T18:24:28.374
+Mar 06, 2023 6:25:04 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:25:08 PM Client main
+INFO: Available movie shows: [ATWM070323 3] 2023-03-06T18:25:08.208
+Mar 06, 2023 6:25:13 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:25:23 PM Client main
+INFO: Added movie slots successfully! 
+Mar 06, 2023 6:25:26 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:26:03 PM Client bookMovieTicket
+INFO: Invalid movie id! Please enter correct movie id. 
+Mar 06, 2023 6:26:06 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:26:18 PM Client exchangeMovieTicket
+INFO: Invalid movie id! Please enter correct movie id. 
+Mar 06, 2023 6:26:27 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:26:28 PM Client getBookingSchedule
+INFO: [AVATAR ATWM070323 2, TITANIC VERM070323 2] 2023-03-06T18:26:28.873
+Mar 06, 2023 6:26:47 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:27:01 PM Client main
+INFO: No other slots available. Please refund the amount to customers
+Mar 06, 2023 6:30:19 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:30:31 PM Client main
+INFO: Added movie slots successfully! 
+Mar 06, 2023 6:30:34 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:30:37 PM Client main
+INFO: Available movie shows: [ATWM080323 5, ATWE070323 5] 2023-03-06T18:30:37.646
+Mar 06, 2023 6:30:55 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:31:32 PM Client bookMovieTicket
+INFO: Movie booked successfully! 
+Mar 06, 2023 6:31:36 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:31:38 PM Client getBookingSchedule
+INFO: [AVATAR ATWE070323 2, TITANIC VERM070323 2] 2023-03-06T18:31:38.854
+Mar 06, 2023 6:31:47 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:32:00 PM Client main
+INFO: No other slots available. Please refund the amount to customers
+Mar 06, 2023 6:44:43 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:45:01 PM Client main
+INFO: Added movie slots successfully! 
+Mar 06, 2023 6:45:14 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:45:15 PM Client getBookingSchedule
+INFO: [AVATAR ATWM080323 2] 2023-03-06T18:45:15.850
+Mar 06, 2023 6:45:21 PM Client main
+INFO: User Entered 
+Mar 06, 2023 6:46:05 PM Client exchangeMovieTicket
+INFO: 
+Mar 06, 2023 6:48:42 PM Client main
+INFO: Exception encounteredInput/output error
+Mar 06, 2023 7:04:18 PM Client main
+INFO: User Entered 
+Mar 06, 2023 7:04:34 PM Client main
+INFO: Added movie slots successfully! 
+Mar 06, 2023 7:04:43 PM Client main
+INFO: User Entered 
+Mar 06, 2023 7:04:54 PM Client bookMovieTicket
+INFO: Movie booked successfully! 
+Mar 06, 2023 7:04:58 PM Client main
+INFO: User Entered 
+Mar 06, 2023 7:05:04 PM Client getBookingSchedule
+INFO: [AVATAR ATWM070323 2] 2023-03-06T19:05:04.527
+Mar 06, 2023 7:05:09 PM Client main
+INFO: User Entered 
+Mar 06, 2023 7:06:46 PM Client exchangeMovieTicket
+INFO: 
+Mar 06, 2023 7:06:51 PM Client main
+INFO: User Entered 
+Mar 06, 2023 7:06:54 PM Client getBookingSchedule
+INFO: [AVATAR ATWM070323 2, TITANIC VERM080323 2] 2023-03-06T19:06:54.671
+Mar 06, 2023 7:11:06 PM Client main
+INFO: User Entered 
+Mar 06, 2023 7:11:15 PM Client main
+INFO: Added movie slots successfully! 
+Mar 06, 2023 7:11:55 PM Client main
+INFO: User Entered 
+Mar 06, 2023 7:12:37 PM Client bookMovieTicket
+INFO: Movie booked successfully! 
+Mar 06, 2023 7:13:34 PM Client main
+INFO: User Entered 
+Mar 06, 2023 7:13:57 PM Client exchangeMovieTicket
+INFO: 
+Mar 06, 2023 7:21:11 PM Client main
+INFO: Exception encounteredInput/output error
+Mar 06, 2023 7:22:27 PM Client main
+INFO: User Entered 
+Mar 06, 2023 7:22:44 PM Client main
+INFO: Exception encountered
+Mar 06, 2023 7:23:58 PM Client main
+INFO: User Entered 
+Mar 06, 2023 7:24:10 PM Client main
+INFO: Added movie slots successfully! 
+Mar 06, 2023 7:24:14 PM Client main
+INFO: User Entered 
+Mar 06, 2023 7:24:28 PM Client bookMovieTicket
+INFO: 
+Mar 06, 2023 7:24:35 PM Client main
+INFO: User Entered 
+Mar 06, 2023 7:24:36 PM Client getBookingSchedule
+INFO: [TITANIC VERM080323 2] 2023-03-06T19:24:36.867
+Mar 06, 2023 7:50:57 PM Client main
+INFO: User Entered 
+Mar 06, 2023 7:51:10 PM Client main
+INFO: Added movie slots successfully! 
+Mar 06, 2023 7:51:13 PM Client main
+INFO: User Entered 
+Mar 06, 2023 7:51:36 PM Client bookMovieTicket
+INFO: 
+Mar 06, 2023 8:07:41 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:08:51 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:09:00 PM Client main
+INFO: Added movie slots successfully! 
+Mar 06, 2023 8:09:03 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:09:16 PM Client bookMovieTicket
+INFO: 
+Mar 06, 2023 8:09:22 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:09:23 PM Client getBookingSchedule
+INFO: [TITANIC VERM080323 2] 2023-03-06T20:09:23.950
+Mar 06, 2023 8:26:13 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:26:23 PM Client main
+INFO: Added movie slots successfully! 
+Mar 06, 2023 8:26:26 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:26:40 PM Client bookMovieTicket
+INFO: Movie booked successfully!
+Mar 06, 2023 8:27:02 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:27:26 PM Client exchangeMovieTicket
+INFO: You are already booked for the same slot! 
+Mar 06, 2023 8:27:36 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:27:38 PM Client getBookingSchedule
+INFO: [AVATAR ATWM070323 2, TITANIC VERM080323 2] 2023-03-06T20:27:38.703
+Mar 06, 2023 8:29:15 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:29:29 PM Client main
+INFO: Added movie slots successfully! 
+Mar 06, 2023 8:29:42 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:29:49 PM Client main
+INFO: Available movie shows: [ATWM070323 5] 2023-03-06T20:29:49.272
+Mar 06, 2023 8:30:11 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:30:17 PM Client main
+INFO: Available movie shows: [VERM080323 5] 2023-03-06T20:30:17.562
+Mar 06, 2023 8:30:41 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:30:56 PM Client bookMovieTicket
+INFO: Movie booked successfully! 
+Mar 06, 2023 8:31:00 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:31:16 PM Client exchangeMovieTicket
+INFO: Invalid movie id! Please enter correct movie id. 
+Mar 06, 2023 8:31:22 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:31:46 PM Client exchangeMovieTicket
+INFO: You cannot book more that 3 movie tickets
+Mar 06, 2023 8:49:03 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:49:25 PM Client main
+INFO: Added movie slots successfully! 
+Mar 06, 2023 8:49:31 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:51:46 PM Client bookMovieTicket
+INFO: Movie booked successfully! 
+Mar 06, 2023 8:51:50 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:52:57 PM Client bookMovieTicket
+INFO: Invalid movie id! Please enter correct movie id. 
+Mar 06, 2023 8:53:00 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:53:19 PM Client exchangeMovieTicket
+INFO: Invalid movie id! Please enter correct movie id. 
+Mar 06, 2023 8:53:23 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:53:47 PM Client exchangeMovieTicket
+INFO: Movie booked successfully!
+Mar 06, 2023 8:54:26 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:54:27 PM Client getBookingSchedule
+INFO: [AVATAR ATWM070323 2, TITANIC VERM080323 2] 2023-03-06T20:54:27.580
+Mar 06, 2023 8:56:24 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:56:38 PM Client main
+INFO: Added movie slots successfully! 
+Mar 06, 2023 8:56:43 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:56:56 PM Client bookMovieTicket
+INFO: Movie booked successfully! 
+Mar 06, 2023 8:56:59 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:57:05 PM Client exchangeMovieTicket
+INFO: Invalid movie id! Please enter correct movie id. 
+Mar 06, 2023 8:57:10 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:57:34 PM Client exchangeMovieTicket
+INFO: You have successfully exchanged the tickets
+Mar 06, 2023 8:59:51 PM Client main
+INFO: User Entered 
+Mar 06, 2023 8:59:53 PM Client getBookingSchedule
+INFO: [TITANIC VERM080323 2] 2023-03-06T20:59:53.867

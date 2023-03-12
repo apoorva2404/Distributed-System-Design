@@ -204,3 +204,511 @@ Feb 23, 2023 12:51:36 AM BookingServerImpl listMovieShowsAvailability
 INFO: Available Movie shows forTITANIC
 Feb 23, 2023 12:51:36 AM BookingServerImpl listMovieShowsAvailability
 INFO: Available Movie shows forTITANIC []
+Mar 06, 2023 2:24:16 PM Outrement main
+INFO: Outrement Started server
+Mar 06, 2023 2:27:34 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 2:27:34 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 2:27:53 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 06, 2023 2:27:53 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC []
+Mar 06, 2023 2:30:16 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 2:30:16 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 2:31:22 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 2:31:22 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 2:31:52 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 2:31:52 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 2:32:33 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 2:32:33 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 2:33:00 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 2:33:00 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 2:33:06 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 2:33:06 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 2:34:31 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 2:34:31 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 2:39:40 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 2:39:40 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 2:47:44 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 2:47:44 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 5:27:30 PM Outrement main
+INFO: Outrement Started server
+Mar 06, 2023 5:31:17 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 5:31:17 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 5:31:48 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:31:48 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 5:32:01 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:32:01 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 5:32:11 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 5:32:11 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 5:33:41 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:33:41 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 5:33:41 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 5:33:41 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 5:34:55 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 5:34:55 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 5:35:30 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:35:30 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 5:35:30 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 5:35:30 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 5:38:29 PM Outrement main
+INFO: Outrement Started server
+Mar 06, 2023 5:39:20 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 5:39:20 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 5:39:38 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:39:38 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 5:39:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:39:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 5:40:03 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:40:03 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 5:41:09 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:41:09 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 5:41:09 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 5:41:09 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 5:44:30 PM Outrement main
+INFO: Outrement Started server
+Mar 06, 2023 5:45:40 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:45:40 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 5:45:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:45:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 5:46:23 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:46:23 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 5:46:23 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 5:46:23 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 5:46:23 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:46:23 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 5:46:32 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 5:46:32 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 5:46:45 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 5:46:45 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 6:14:44 PM Outrement main
+INFO: Outrement Started server
+Mar 06, 2023 6:21:23 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:21:23 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 6:21:34 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 06, 2023 6:21:34 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC []
+Mar 06, 2023 6:21:51 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVENGERS
+Mar 06, 2023 6:21:51 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVENGERS []
+Mar 06, 2023 6:22:17 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:22:17 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 6:23:38 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:23:38 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:23:38 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:23:38 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:23:48 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:23:48 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:24:17 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:24:17 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:24:28 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:24:28 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:25:08 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:25:08 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 6:26:28 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:26:28 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:30:37 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:30:37 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 6:31:32 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:31:32 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:31:38 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:31:38 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:34:46 PM Outrement main
+INFO: Outrement Started server
+Mar 06, 2023 6:37:24 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:37:24 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 6:37:53 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:37:53 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:38:05 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:38:05 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:38:18 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:38:18 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:40:50 PM Outrement main
+INFO: Outrement Started server
+Mar 06, 2023 6:42:04 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:42:04 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 6:42:49 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:42:49 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:42:54 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:42:54 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:43:07 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:43:07 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 6:43:44 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:43:44 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:43:50 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:43:50 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:44:20 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:44:20 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 6:45:15 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:45:15 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:46:05 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:46:05 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:46:05 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 06, 2023 6:46:05 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC []
+Mar 06, 2023 6:46:05 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:46:05 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:46:05 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:46:05 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:49:23 PM Outrement main
+INFO: Outrement Started server
+Mar 06, 2023 6:51:54 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:51:54 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:53:17 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:53:17 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:53:17 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:53:17 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 6:53:17 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 6:53:17 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 6:53:44 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 6:53:44 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 6:59:03 PM Outrement main
+INFO: Outrement Started server
+Mar 06, 2023 7:04:54 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:04:54 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 7:05:04 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:05:04 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 7:06:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:06:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 7:06:46 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 06, 2023 7:06:46 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC []
+Mar 06, 2023 7:06:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:06:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 7:06:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:06:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 7:06:54 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:06:54 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 7:10:26 PM Outrement main
+INFO: Outrement Started server
+Mar 06, 2023 7:12:37 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:12:37 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 7:13:57 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:13:57 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 7:13:57 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 06, 2023 7:13:57 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC []
+Mar 06, 2023 7:13:57 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:13:57 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 7:13:57 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:13:57 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 7:20:07 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:20:07 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 7:22:01 PM Outrement main
+INFO: Outrement Started server
+Mar 06, 2023 7:23:32 PM Outrement main
+INFO: Outrement Started server
+Mar 06, 2023 7:24:28 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:24:28 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 7:24:28 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:24:28 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 7:24:36 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:24:36 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 7:50:32 PM Outrement main
+INFO: Outrement Started server
+Mar 06, 2023 7:51:36 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:51:36 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 7:51:36 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 7:51:36 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:08:24 PM Outrement main
+INFO: Outrement Started server
+Mar 06, 2023 8:09:15 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:09:15 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:09:16 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:09:16 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:09:23 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:09:23 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:25:47 PM Outrement main
+INFO: Outrement Started server
+Mar 06, 2023 8:26:40 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:26:40 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:26:40 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:26:40 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:27:26 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:27:26 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:27:26 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 8:27:26 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 8:27:26 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:27:26 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:27:26 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:27:26 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:27:26 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:27:26 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:27:38 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:27:38 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:28:45 PM Outrement main
+INFO: Outrement Started server
+Mar 06, 2023 8:29:49 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 06, 2023 8:29:49 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 06, 2023 8:30:17 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 06, 2023 8:30:17 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC []
+Mar 06, 2023 8:30:56 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:30:56 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:31:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:31:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:31:46 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 06, 2023 8:31:46 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC []
+Mar 06, 2023 8:31:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:31:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:31:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:31:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:31:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:31:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:31:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:31:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:48:25 PM Outrement main
+INFO: Outrement Started server
+Mar 06, 2023 8:51:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:51:46 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:53:47 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:53:47 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:53:47 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 06, 2023 8:53:47 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC []
+Mar 06, 2023 8:53:47 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:53:47 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:53:47 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:53:47 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:54:27 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:54:27 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:55:55 PM Outrement main
+INFO: Outrement Started server
+Mar 06, 2023 8:56:56 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:56:56 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:57:33 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:57:33 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:57:33 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 06, 2023 8:57:33 PM BookingServerImpl listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC []
+Mar 06, 2023 8:57:33 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:57:33 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:57:33 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:57:33 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 06, 2023 8:59:53 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 06, 2023 8:59:53 PM BookingServerImpl getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []

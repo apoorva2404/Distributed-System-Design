@@ -176,10 +176,13 @@ class BookingServerImpl extends BookingInterfacePOA {
 
         // -- check --
         Map.Entry<String, Integer> entry = new AbstractMap.SimpleEntry<String, Integer>(movieID, targetMovieCapacity);
+        System.out.println("entry " + entry);
 
         int targetSlotIndex = Arrays.asList(availableSlotsList).indexOf(entry);
 
         int movieSlotsLength = Arrays.asList(availableSlotsList).size();
+        System.out.println("movieSlotsLength - " + movieSlotsLength);
+        System.out.println("availableSlotsList - " + availableSlotsList);
         if(targetSlotIndex + 1 == movieSlotsLength) {
             // logger
             movies.get(movieName).remove(movieID);
@@ -385,6 +388,7 @@ class BookingServerImpl extends BookingInterfacePOA {
                         i+=Integer.parseInt(parsedStr[2]);
                     }
                 }
+                System.out.println("PRINT i " + i);
 
                 if ((numberOfTickets+i)>3){
                     logInfo.logger.info("You cannot book more that 3 movie tickets");
@@ -453,6 +457,7 @@ class BookingServerImpl extends BookingInterfacePOA {
                 logInfo.logger.info("Sorry! Movie show does not exist");
                 return "Sorry! Movie show does not exist";
             }
+            System.out.println("result in book - " + result);
             return result;
         } catch(Exception e) {
             e.printStackTrace();
@@ -650,14 +655,25 @@ class BookingServerImpl extends BookingInterfacePOA {
 
             if(!!flag) {
                 String[] listAvailableMovies = listMovieShowsAvailability(new_movieName, true);
+                System.out.println("listAvailableMovies - " + listAvailableMovies );
                 for(String movieDetails: listAvailableMovies) {
+                    System.out.println("movieDetails - " + movieDetails + " " + new_movieID);
+                    System.out.println("movieDetails 1 - " + movieDetails.split(" ")[0].equals(new_movieID));
                     if(movieDetails.split(" ")[0].equals(new_movieID)) {
                         if(Integer.parseInt(movieDetails.split(" ")[1]) >= numberOfTickets) {
                            // book new 
+                        //    if(bookMovieTickets(customerID, new_movieID, new_movieName, numberOfTickets, true) == "Movie booked successfully! ") {
+                        //       System.out.println("returning string " + bookMovieTickets(customerID, new_movieID, new_movieName, numberOfTickets, true) == "Movie booked successfully! ");  
+                        //    } else {
+                        //     System.out.println("list " + bookMovieTickets(customerID, new_movieID, new_movieName, numberOfTickets, true));
+                        //    }
+
                            String success = bookMovieTickets(customerID, new_movieID, new_movieName, numberOfTickets, true);
                            // not cancelling
-                           System.out.println("### " + success.equals("Movie booked successfully! "));
-                           if(success.equals("Movie booked successfully! ")) {
+                           System.out.println("success - " + success);
+
+                           System.out.println("### " + success.trim().equals("Movie booked successfully!"));
+                           if(success.trim().equals("Movie booked successfully!")) {
                                 // cancel old tickets 
                                 String result = cancelMovieTickets(customerID, curr_movieID, booking.split(" ")[0], numberOfTickets, true);
 
@@ -677,13 +693,13 @@ class BookingServerImpl extends BookingInterfacePOA {
 
                             return "No capacity left for " + new_movieID + " " + new_movieName;
                         }
-                    } else {
+                    } 
+                    else {
                         logInfo.logger.info("No shows for " + new_movieName + " " + new_movieID);
-
-                        return "No shows for " + new_movieName + " " + new_movieID;
+                        // - not checking for second movie
+                        // return "No shows for " + new_movieName + " " + new_movieID;
                     }
                 }
-
             } else {
                 logInfo.logger.info("You have not booked any tickets for this show ");
 
@@ -698,33 +714,33 @@ class BookingServerImpl extends BookingInterfacePOA {
     }
 
     public ArrayList<String> mapFunction(String functionNameWithParameters, LoggerClass logInfo) {
-        String[] result = {};
+        ArrayList<String> result = new ArrayList<>();
 
         try {
             if(functionNameWithParameters.contains("listMovieShowsAvailability")) {
                 String [] params = functionNameWithParameters.split("-");
 
-                result = listMovieShowsAvailability(params[1].trim(), false);
+                result = new ArrayList<String>(Arrays.asList(listMovieShowsAvailability(params[1].trim(), false)));
             } else if(functionNameWithParameters.contains("getBookingSchedule")) {
                 String [] params = functionNameWithParameters.split("-");
 
-                result = getBookingSchedule(params[1].trim(), false);
+                result = new ArrayList<String>(Arrays.asList(getBookingSchedule(params[1].trim(), false)));
             } else if(functionNameWithParameters.contains("bookMovieTickets")) {
                 String [] params = functionNameWithParameters.split("-");
 
                 String bookedTickets = bookMovieTickets(params[1].trim(), params[2].trim(), params[3].trim(), Integer.parseInt(params[4].trim()), false);
-                Arrays.asList(result).add(bookedTickets);
+                result.add(bookedTickets);
             } else if(functionNameWithParameters.contains("cancelMovieTickets")){
                 String [] params = functionNameWithParameters.split("-");
 
                 String cancelTickets = cancelMovieTickets(params[1].trim(), params[2].trim(), params[3].trim(), Integer.parseInt(params[4].trim()), false);
-                Arrays.asList(result).add(cancelTickets);
+                result.add(cancelTickets);
             }
         } catch(Exception e) {
             e.printStackTrace();
             System.out.println("Exception" + e);
         }
-        return new ArrayList<String>(Arrays.asList(result));
+        return result;
     };
 
     public void shutdown() {
