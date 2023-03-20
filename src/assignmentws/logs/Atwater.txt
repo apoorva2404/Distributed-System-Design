@@ -1,0 +1,818 @@
+Mar 11, 2023 11:07:42 PM assignmentws.Atwater main
+INFO: Atwater service is published true
+Mar 11, 2023 11:10:31 PM assignmentws.Atwater main
+INFO: Atwater service is published true
+Mar 11, 2023 11:12:39 PM assignmentws.BookingImplementation addMovieSlots
+INFO: Adding 4 slots for ATWM120323 AVATAR
+Mar 11, 2023 11:12:39 PM assignmentws.BookingImplementation addMovieSlots
+INFO: Added movie slots successfully 2023-03-11T23:12:39.949
+Mar 11, 2023 11:13:00 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWA1234
+Mar 11, 2023 11:13:00 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWA1234 is: []
+Mar 11, 2023 11:13:35 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 11, 2023 11:13:35 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM120323 4]
+Mar 12, 2023 8:24:53 PM assignmentws.Atwater main
+INFO: Atwater service is published true
+Mar 12, 2023 8:27:35 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 12, 2023 8:27:35 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 12, 2023 8:28:28 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVENGERS
+Mar 12, 2023 8:28:28 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVENGERS []
+Mar 12, 2023 8:28:49 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 12, 2023 8:28:49 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC []
+Mar 12, 2023 8:29:32 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(OUTM130323)with customer id ATWC1234
+Mar 12, 2023 8:29:32 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 12, 2023 8:29:32 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 12, 2023 8:29:32 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 12, 2023 8:29:32 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 12, 2023 8:29:57 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVENGERS(OUTM140323)with customer id ATWC1234
+Mar 12, 2023 8:29:57 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 12, 2023 8:29:57 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM130323 2]
+Mar 12, 2023 8:29:57 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: You cannot book more that 3 movie tickets
+Mar 12, 2023 8:30:18 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 12, 2023 8:30:18 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM130323 2]
+Mar 12, 2023 8:32:40 PM assignmentws.BookingImplementation cancelMovieTickets
+INFO: Cancel 2 tickets for movieAVATAR with customer id ATWC1234 movieid OUTM130323
+Mar 12, 2023 8:32:45 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 12, 2023 8:32:45 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 12, 2023 8:33:05 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieAVATAR(OUTM130323)with customer id ATWC1234
+Mar 12, 2023 8:33:05 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 12, 2023 8:33:05 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 12, 2023 8:33:05 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 12, 2023 8:33:05 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 12, 2023 8:33:24 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieAVENGERS(OUTM140323)with customer id ATWC1234
+Mar 12, 2023 8:33:24 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 12, 2023 8:33:24 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM130323 1]
+Mar 12, 2023 8:33:24 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 12, 2023 8:33:24 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 12, 2023 8:33:45 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieTITANIC(OUTE130323)with customer id ATWC1234
+Mar 12, 2023 8:33:45 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 12, 2023 8:33:45 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM130323 1, AVENGERS OUTM140323 1]
+Mar 12, 2023 8:33:45 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 12, 2023 8:33:45 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 12, 2023 8:34:32 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 12, 2023 8:34:32 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM130323 1, AVENGERS OUTM140323 1, TITANIC OUTE130323 1]
+Mar 12, 2023 8:34:32 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 12, 2023 8:34:32 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC [OUTE140323 5, OUTE130323 4]
+Mar 12, 2023 8:34:32 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 12, 2023 8:34:32 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM130323 1, AVENGERS OUTM140323 1, TITANIC OUTE130323 1]
+Mar 12, 2023 8:34:32 PM assignmentws.BookingImplementation isExchangePossible
+INFO: You cannot book more that 3 movie tickets
+Mar 12, 2023 8:34:33 PM assignmentws.BookingImplementation cancelMovieTickets
+INFO: Cancel 1 tickets for movieAVATAR with customer id ATWC1234 movieid OUTM130323
+Mar 12, 2023 8:34:33 PM assignmentws.BookingImplementation exchangeTickets
+INFO: No shows for TITANIC OUTE140323
+Mar 12, 2023 8:34:51 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 12, 2023 8:34:52 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVENGERS OUTM140323 1, TITANIC OUTE130323 1]
+Mar 12, 2023 8:58:01 PM assignmentws.Atwater main
+INFO: Atwater service is published true
+Mar 12, 2023 9:00:08 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(OUTM130323)with customer id ATWC1234
+Mar 12, 2023 9:00:08 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 12, 2023 9:00:09 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 12, 2023 9:00:09 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 12, 2023 9:00:09 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 12, 2023 9:00:55 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieAVENGERS(OUTM140323)with customer id ATWC1234
+Mar 12, 2023 9:00:55 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 12, 2023 9:00:55 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM130323 2]
+Mar 12, 2023 9:00:55 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 12, 2023 9:00:55 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 12, 2023 9:01:33 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 12, 2023 9:01:33 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM130323 2, AVENGERS OUTM140323 1]
+Mar 12, 2023 9:01:33 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 12, 2023 9:01:33 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC [OUTE140323 5, OUTE130323 5]
+Mar 12, 2023 9:01:33 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 12, 2023 9:01:33 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM130323 2, AVENGERS OUTM140323 1]
+Mar 12, 2023 9:01:33 PM assignmentws.BookingImplementation isExchangePossible
+INFO: Sorry! Movie show does not exist
+Mar 12, 2023 9:01:33 PM assignmentws.BookingImplementation exchangeTickets
+INFO: No shows for TITANIC OUTE140323
+Mar 12, 2023 9:02:51 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 12, 2023 9:02:51 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM130323 2, AVENGERS OUTM140323 1]
+Mar 13, 2023 2:58:57 PM assignmentws.Atwater main
+INFO: Atwater service is published true
+Mar 13, 2023 3:01:17 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieAVATAR(OUTM140323)with customer id ATWC1234
+Mar 13, 2023 3:01:17 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:01:17 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 3:01:17 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:01:17 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 3:01:38 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieAVENGERS(OUTA140323)with customer id ATWC1234
+Mar 13, 2023 3:01:38 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:01:38 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1]
+Mar 13, 2023 3:01:38 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:01:38 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 3:02:02 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieTITANIC(OUTE140323)with customer id ATWC1234
+Mar 13, 2023 3:02:02 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:02:02 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1, AVENGERS OUTA140323 1]
+Mar 13, 2023 3:02:02 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:02:02 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 3:02:38 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:02:38 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1, AVENGERS OUTA140323 1, TITANIC OUTE140323 1]
+Mar 13, 2023 3:02:38 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 13, 2023 3:02:38 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC [OUTM150323 5, OUTE140323 4]
+Mar 13, 2023 3:02:38 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:02:38 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1, AVENGERS OUTA140323 1, TITANIC OUTE140323 1]
+Mar 13, 2023 3:02:38 PM assignmentws.BookingImplementation isExchangePossible
+INFO: Sorry! Movie show does not exist
+Mar 13, 2023 3:02:38 PM assignmentws.BookingImplementation exchangeTickets
+INFO: No shows for TITANIC OUTM150323
+Mar 13, 2023 3:07:34 PM assignmentws.Atwater main
+INFO: Atwater service is published true
+Mar 13, 2023 3:10:22 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieAVATAR(OUTM140323)with customer id ATWC1234
+Mar 13, 2023 3:10:22 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:10:22 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 3:10:22 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:10:22 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 3:11:45 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieAVENGERS(OUTA140323)with customer id ATWC1234
+Mar 13, 2023 3:11:45 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:11:45 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1]
+Mar 13, 2023 3:11:45 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:11:45 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 3:13:28 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieTITANIC(OUTE140323)with customer id ATWC1234
+Mar 13, 2023 3:13:28 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:13:28 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1, AVENGERS OUTA140323 1]
+Mar 13, 2023 3:13:28 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:13:28 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 3:15:15 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:15:15 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1, AVENGERS OUTA140323 1, TITANIC OUTE140323 1]
+Mar 13, 2023 3:15:15 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 13, 2023 3:15:15 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC [OUTM150323 5, OUTE140323 8]
+Mar 13, 2023 3:15:15 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:15:15 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1, AVENGERS OUTA140323 1, TITANIC OUTE140323 1]
+Mar 13, 2023 3:15:15 PM assignmentws.BookingImplementation isExchangePossible
+INFO: null
+Mar 13, 2023 3:15:15 PM assignmentws.BookingImplementation exchangeTickets
+INFO: No shows for TITANIC OUTM150323
+Mar 13, 2023 3:21:59 PM assignmentws.Atwater main
+INFO: Atwater service is published true
+Mar 13, 2023 3:24:09 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieAVATAR(OUTM140323)with customer id ATWC1234
+Mar 13, 2023 3:24:09 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:24:10 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 3:24:10 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:24:10 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 3:24:45 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieAVENGERS(OUTA140323)with customer id ATWC1234
+Mar 13, 2023 3:24:45 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:24:45 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1]
+Mar 13, 2023 3:24:45 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:24:45 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 3:25:17 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieTITANIC(OUTE140323)with customer id ATWC1234
+Mar 13, 2023 3:25:17 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:25:17 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1, AVENGERS OUTA140323 1]
+Mar 13, 2023 3:25:17 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:25:17 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 3:26:04 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:26:04 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1, AVENGERS OUTA140323 1, TITANIC OUTE140323 1]
+Mar 13, 2023 3:26:04 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 13, 2023 3:26:04 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC [OUTM150323 5, OUTE140323 4]
+Mar 13, 2023 3:26:04 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:26:04 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1, AVENGERS OUTA140323 1, TITANIC OUTE140323 1]
+Mar 13, 2023 3:26:04 PM assignmentws.BookingImplementation isExchangePossible
+INFO: null
+Mar 13, 2023 3:26:04 PM assignmentws.BookingImplementation exchangeTickets
+INFO: No shows for TITANIC OUTM150323
+Mar 13, 2023 3:33:58 PM assignmentws.Atwater main
+INFO: Atwater service is published true
+Mar 13, 2023 3:36:17 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieAVATAR(OUTM140323)with customer id ATWC1234
+Mar 13, 2023 3:36:17 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:36:17 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 3:36:17 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:36:17 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 3:37:07 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieAVENGERS(OUTA140323)with customer id ATWC1234
+Mar 13, 2023 3:37:07 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:37:07 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1]
+Mar 13, 2023 3:37:07 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:37:07 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 3:37:23 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieTITANIC(OUTE140323)with customer id ATWC1234
+Mar 13, 2023 3:37:23 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:37:23 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1, AVENGERS OUTA140323 1]
+Mar 13, 2023 3:37:23 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:37:23 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 3:38:05 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:38:05 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1, AVENGERS OUTA140323 1, TITANIC OUTE140323 1]
+Mar 13, 2023 3:38:05 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 13, 2023 3:38:05 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC [OUTM150323 5, OUTE140323 4]
+Mar 13, 2023 3:38:05 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:38:05 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1, AVENGERS OUTA140323 1, TITANIC OUTE140323 1]
+Mar 13, 2023 3:38:05 PM assignmentws.BookingImplementation exchangeTickets
+INFO: No shows for TITANIC OUTM150323
+Mar 13, 2023 3:40:31 PM assignmentws.Atwater main
+INFO: Atwater service is published true
+Mar 13, 2023 3:43:26 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieAVATAR(OUTM140323)with customer id ATWC1234
+Mar 13, 2023 3:43:26 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:43:26 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 3:43:26 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:43:26 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 3:44:30 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieAVENGERS(OUTA140323)with customer id ATWC1234
+Mar 13, 2023 3:44:30 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:44:30 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1]
+Mar 13, 2023 3:44:30 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:44:30 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 3:44:57 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieTITANIC(OUTE140323)with customer id ATWC1234
+Mar 13, 2023 3:44:57 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:44:57 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1, AVENGERS OUTA140323 1]
+Mar 13, 2023 3:44:57 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:44:57 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 3:45:21 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:45:21 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1, AVENGERS OUTA140323 1, TITANIC OUTE140323 1]
+Mar 13, 2023 3:45:21 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 13, 2023 3:45:21 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC [OUTM150323 5, OUTE140323 4]
+Mar 13, 2023 3:45:21 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 3:45:21 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1, AVENGERS OUTA140323 1, TITANIC OUTE140323 1]
+Mar 13, 2023 3:45:21 PM assignmentws.BookingImplementation cancelMovieTickets
+INFO: Cancel 1 tickets for movieAVATAR with customer id ATWC1234 movieid OUTM140323
+Mar 13, 2023 3:45:21 PM assignmentws.BookingImplementation exchangeTickets
+INFO: No shows for TITANIC OUTM150323
+Mar 13, 2023 3:57:11 PM assignmentws.Atwater main
+INFO: Atwater service is published true
+Mar 13, 2023 4:00:45 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieAVATAR(OUTM140323)with customer id ATWC1234
+Mar 13, 2023 4:00:45 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:00:45 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 4:00:45 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:00:45 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 4:01:11 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieAVENGERS(OUTA140323)with customer id ATWC1234
+Mar 13, 2023 4:01:11 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:01:11 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1]
+Mar 13, 2023 4:01:11 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:01:11 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 4:01:47 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieTITANIC(OUTE140323)with customer id ATWC1234
+Mar 13, 2023 4:01:47 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:01:47 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1, AVENGERS OUTA140323 1]
+Mar 13, 2023 4:01:47 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:01:47 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 4:02:50 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:02:50 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1, AVENGERS OUTA140323 1, TITANIC OUTE140323 1]
+Mar 13, 2023 4:02:50 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 13, 2023 4:02:50 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC [OUTM150323 5, OUTE140323 4]
+Mar 13, 2023 4:02:50 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:02:50 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1, AVENGERS OUTA140323 1, TITANIC OUTE140323 1]
+Mar 13, 2023 4:02:50 PM assignmentws.BookingImplementation cancelMovieTickets
+INFO: Cancel 1 tickets for movieAVATAR with customer id ATWC1234 movieid OUTM140323
+Mar 13, 2023 4:02:50 PM assignmentws.BookingImplementation exchangeTickets
+INFO: No shows for TITANIC OUTM150323
+Mar 13, 2023 4:08:07 PM assignmentws.Atwater main
+INFO: Atwater service is published true
+Mar 13, 2023 4:09:51 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieAVATAR(OUTM140323)with customer id ATWC1234
+Mar 13, 2023 4:09:51 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:09:51 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 4:09:51 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:09:51 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 4:10:39 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieAVENGERS(OUTA140323)with customer id ATWC1234
+Mar 13, 2023 4:10:39 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:10:40 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1]
+Mar 13, 2023 4:10:40 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:10:40 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 4:11:00 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieTITANIC(OUTE140323)with customer id ATWC1234
+Mar 13, 2023 4:11:00 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:11:00 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1, AVENGERS OUTA140323 1]
+Mar 13, 2023 4:11:00 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:11:00 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 4:11:43 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:11:43 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1, AVENGERS OUTA140323 1, TITANIC OUTE140323 1]
+Mar 13, 2023 4:11:43 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC
+Mar 13, 2023 4:11:43 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forTITANIC [OUTM150323 5, OUTE140323 4]
+Mar 13, 2023 4:11:43 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:11:43 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR OUTM140323 1, AVENGERS OUTA140323 1, TITANIC OUTE140323 1]
+Mar 13, 2023 4:11:43 PM assignmentws.BookingImplementation cancelMovieTickets
+INFO: Cancel 1 tickets for movieAVATAR with customer id ATWC1234 movieid OUTM140323
+Mar 13, 2023 4:11:43 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieTITANIC(OUTM150323)with customer id ATWC1234
+Mar 13, 2023 4:11:43 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:11:43 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVENGERS OUTA140323 1, TITANIC OUTE140323 1]
+Mar 13, 2023 4:11:43 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:11:43 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 4:11:56 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:11:56 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVENGERS OUTA140323 1, TITANIC OUTE140323 1, TITANIC OUTM150323 1]
+Mar 13, 2023 4:15:58 PM assignmentws.Atwater main
+INFO: Atwater service is published true
+Mar 13, 2023 4:17:19 PM assignmentws.BookingImplementation addMovieSlots
+INFO: Adding 5 slots for ATWM140323 AVATAR
+Mar 13, 2023 4:17:19 PM assignmentws.BookingImplementation addMovieSlots
+INFO: Added movie slots successfully 2023-03-13T16:17:19.669
+Mar 13, 2023 4:17:44 PM assignmentws.BookingImplementation removeMovieSlots
+INFO: Removing moving slots for ATWM140323 AVATAR
+Mar 13, 2023 4:17:44 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 13, 2023 4:17:44 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM140323 5]
+Mar 13, 2023 4:17:44 PM assignmentws.BookingImplementation removeMovieSlots
+INFO: No other slots available. Please refund the amount to customers as the slot has been removed
+Mar 13, 2023 4:25:16 PM assignmentws.Atwater main
+INFO: Atwater service is published true
+Mar 13, 2023 4:25:38 PM assignmentws.BookingImplementation addMovieSlots
+INFO: Adding 5 slots for ATWM140323 AVATAR
+Mar 13, 2023 4:25:39 PM assignmentws.BookingImplementation addMovieSlots
+INFO: Added movie slots successfully 2023-03-13T16:25:39.026
+Mar 13, 2023 4:25:50 PM assignmentws.BookingImplementation removeMovieSlots
+INFO: Removing moving slots for ATWM140323 AVATAR
+Mar 13, 2023 4:25:50 PM assignmentws.BookingImplementation removeMovieSlots
+INFO: Removed Movie Slot! 2023-03-13T16:25:50.876
+Mar 13, 2023 4:26:01 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 13, 2023 4:26:01 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 13, 2023 4:29:28 PM assignmentws.BookingImplementation addMovieSlots
+INFO: Adding 5 slots for ATWM140323 AVATAR
+Mar 13, 2023 4:29:28 PM assignmentws.BookingImplementation addMovieSlots
+INFO: Added movie slots successfully 2023-03-13T16:29:28.069
+Mar 13, 2023 4:29:52 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM140323)with customer id ATWC1234
+Mar 13, 2023 4:29:52 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:29:52 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 4:29:52 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Movie booked successfully! 2023-03-13T16:29:52.203
+Mar 13, 2023 4:30:10 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM140323)with customer id ATWC5678
+Mar 13, 2023 4:30:10 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC5678
+Mar 13, 2023 4:30:10 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC5678 is: []
+Mar 13, 2023 4:30:10 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Movie booked successfully! 2023-03-13T16:30:10.178
+Mar 13, 2023 4:30:57 PM assignmentws.BookingImplementation addMovieSlots
+INFO: Adding 4 slots for ATWE140323 AVATAR
+Mar 13, 2023 4:30:57 PM assignmentws.BookingImplementation addMovieSlots
+INFO: Added movie slots successfully 2023-03-13T16:30:57.366
+Mar 13, 2023 4:31:33 PM assignmentws.BookingImplementation removeMovieSlots
+INFO: Removing moving slots for ATWM140323 AVATAR
+Mar 13, 2023 4:31:33 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 13, 2023 4:31:33 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM140323 1, ATWE140323 4]
+Mar 13, 2023 4:31:33 PM assignmentws.BookingImplementation removeMovieSlots
+INFO: No other slots available. Please refund the amount to customers as the slot has been removed
+Mar 13, 2023 4:32:07 PM assignmentws.BookingImplementation addMovieSlots
+INFO: Adding 4 slots for ATWM150323 AVATAR
+Mar 13, 2023 4:32:07 PM assignmentws.BookingImplementation addMovieSlots
+INFO: Added movie slots successfully 2023-03-13T16:32:07.219
+Mar 13, 2023 4:32:25 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 13, 2023 4:32:25 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWE140323 4, ATWM150323 4]
+Mar 13, 2023 4:34:02 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWE140323)with customer id ATWC1234
+Mar 13, 2023 4:34:02 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:34:02 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 4:34:02 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Movie booked successfully! 2023-03-13T16:34:02.545
+Mar 13, 2023 4:34:17 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWE140323)with customer id ATWC5678
+Mar 13, 2023 4:34:17 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC5678
+Mar 13, 2023 4:34:17 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC5678 is: []
+Mar 13, 2023 4:34:17 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Movie booked successfully! 2023-03-13T16:34:17.741
+Mar 13, 2023 4:34:28 PM assignmentws.BookingImplementation removeMovieSlots
+INFO: Removing moving slots for ATWE140323 AVATAR
+Mar 13, 2023 4:34:28 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 13, 2023 4:34:28 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM150323 4]
+Mar 13, 2023 4:34:28 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM150323)with customer id ATWC1234
+Mar 13, 2023 4:34:28 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:34:28 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 4:34:28 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Movie booked successfully! 2023-03-13T16:34:28.286
+Mar 13, 2023 4:34:28 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVATAR(ATWM150323)with customer id ATWC5678
+Mar 13, 2023 4:34:28 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC5678
+Mar 13, 2023 4:34:28 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC5678 is: []
+Mar 13, 2023 4:34:28 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Movie booked successfully! 2023-03-13T16:34:28.299
+Mar 13, 2023 4:34:28 PM assignmentws.BookingImplementation removeMovieSlots
+INFO: Removed Movie Slot! 2023-03-13T16:34:28.299
+Mar 13, 2023 4:34:43 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 13, 2023 4:34:43 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 13, 2023 4:35:14 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:35:14 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM150323 2]
+Mar 13, 2023 4:35:25 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC5678
+Mar 13, 2023 4:35:25 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC5678 is: [AVATAR ATWM150323 2]
+Mar 13, 2023 4:35:43 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 13, 2023 4:35:43 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR []
+Mar 13, 2023 4:41:08 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieAVATAR(ATWM150323)with customer id ATWC1234
+Mar 13, 2023 4:41:08 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:41:08 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM150323 2]
+Mar 13, 2023 4:41:08 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Sorry! we have only 0 seats available
+Mar 13, 2023 4:42:43 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:42:43 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM150323 2]
+Mar 13, 2023 4:44:02 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 4 tickets for movieAVENGERS(OUTM150323)with customer id ATWC1234
+Mar 13, 2023 4:44:02 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:44:02 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM150323 2]
+Mar 13, 2023 4:44:02 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: You cannot book more that 3 movie tickets
+Mar 13, 2023 4:44:34 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieAVENGERS(OUTM150323)with customer id ATWC1234
+Mar 13, 2023 4:44:34 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:44:34 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM150323 2]
+Mar 13, 2023 4:44:34 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:44:34 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM150323 2]
+Mar 13, 2023 4:44:40 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:44:40 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM150323 2, AVENGERS OUTM150323 1]
+Mar 13, 2023 4:45:09 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 3 tickets for movieAVENGERS(OUTM150323)with customer id ATWC1234
+Mar 13, 2023 4:45:09 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:45:09 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM150323 2, AVENGERS OUTM150323 1]
+Mar 13, 2023 4:45:09 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: You cannot book more that 3 movie tickets
+Mar 13, 2023 4:45:28 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVENGERS(OUTM150323)with customer id ATWC1234
+Mar 13, 2023 4:45:28 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:45:28 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM150323 2, AVENGERS OUTM150323 1]
+Mar 13, 2023 4:45:28 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:45:28 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM150323 2]
+Mar 13, 2023 4:49:12 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:49:12 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM150323 2, AVENGERS OUTM150323 1]
+Mar 13, 2023 4:58:31 PM assignmentws.Atwater main
+INFO: Atwater service is published true
+Mar 13, 2023 4:59:17 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 4 tickets for movieAVENGERS(OUTM150323)with customer id ATWC1234
+Mar 13, 2023 4:59:17 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:59:17 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 4:59:17 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: You cannot book more that 3 movie tickets
+Mar 13, 2023 4:59:36 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 1 tickets for movieAVENGERS(OUTM150323)with customer id ATWC1234
+Mar 13, 2023 4:59:36 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:59:36 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 4:59:36 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:59:36 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 4:59:41 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 4:59:41 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVENGERS OUTM150323 1]
+Mar 13, 2023 5:00:34 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 3 tickets for movieAVENGERS(OUTM150323)with customer id ATWC1234
+Mar 13, 2023 5:00:34 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 5:00:34 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVENGERS OUTM150323 1]
+Mar 13, 2023 5:00:34 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: You cannot book more that 3 movie tickets
+Mar 13, 2023 5:01:22 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVENGERS(VERM150323)with customer id ATWC1234
+Mar 13, 2023 5:01:22 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 5:01:22 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVENGERS OUTM150323 1]
+Mar 13, 2023 5:01:22 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 5:01:22 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 5:02:09 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 2 tickets for movieAVENGERS(OUTM150323)with customer id ATWC1234
+Mar 13, 2023 5:02:09 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 5:02:09 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVENGERS OUTM150323 1]
+Mar 13, 2023 5:02:09 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 5:02:09 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 5:02:15 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 5:02:15 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVENGERS OUTM150323 3]
+Mar 13, 2023 5:09:10 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVENGERS
+Mar 13, 2023 5:09:10 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVENGERS []
+Mar 13, 2023 5:09:18 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 5:09:18 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVENGERS OUTM150323 3]
+Mar 13, 2023 5:09:38 PM assignmentws.BookingImplementation cancelMovieTickets
+INFO: Cancel 1 tickets for movieAVENGERS with customer id ATWC1234 movieid VERM150323
+Mar 13, 2023 5:11:44 PM assignmentws.Atwater main
+INFO: Atwater service is published true
+Mar 13, 2023 5:13:00 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 8 tickets for movieAVATAR(ATWM150323)with customer id ATWC1234
+Mar 13, 2023 5:13:00 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 5:13:00 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 5:13:00 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Sorry! Movie show does not exist
+Mar 13, 2023 5:13:19 PM assignmentws.BookingImplementation addMovieSlots
+INFO: Adding 8 slots for ATWM150323 AVATAR
+Mar 13, 2023 5:13:19 PM assignmentws.BookingImplementation addMovieSlots
+INFO: Added movie slots successfully 2023-03-13T17:13:19.870
+Mar 13, 2023 5:13:48 PM assignmentws.BookingImplementation addMovieSlots
+INFO: Adding 5 slots for ATWM160323 AVATAR
+Mar 13, 2023 5:13:48 PM assignmentws.BookingImplementation addMovieSlots
+INFO: Added movie slots successfully 2023-03-13T17:13:48.683
+Mar 13, 2023 5:13:55 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 13, 2023 5:13:55 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM150323 8, ATWM160323 5]
+Mar 13, 2023 5:16:12 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 5:16:12 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 5:16:12 PM assignmentws.BookingImplementation exchangeTickets
+INFO: You have not booked any tickets for this show 
+Mar 13, 2023 5:17:18 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 8 tickets for movieAVATAR(ATWM150323)with customer id ATWC1234
+Mar 13, 2023 5:17:18 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 5:17:18 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: []
+Mar 13, 2023 5:17:18 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Movie booked successfully! 2023-03-13T17:17:18.853
+Mar 13, 2023 5:17:58 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 5:17:58 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM150323 8]
+Mar 13, 2023 5:17:58 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 13, 2023 5:17:58 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM160323 5]
+Mar 13, 2023 5:17:58 PM assignmentws.BookingImplementation exchangeTickets
+INFO: No capacity left for ATWM160323 AVATAR
+Mar 13, 2023 5:20:20 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 5:20:20 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM150323 8]
+Mar 13, 2023 5:20:20 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR
+Mar 13, 2023 5:20:20 PM assignmentws.BookingImplementation listMovieShowsAvailability
+INFO: Available Movie shows forAVATAR [ATWM160323 5]
+Mar 13, 2023 5:20:20 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 5:20:20 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM150323 8]
+Mar 13, 2023 5:20:20 PM assignmentws.BookingImplementation cancelMovieTickets
+INFO: Cancel 5 tickets for movieAVATAR with customer id ATWC1234 movieid ATWM150323
+Mar 13, 2023 5:20:20 PM assignmentws.BookingImplementation cancelMovieTickets
+INFO: Cancelled movie tickets successfully 
+Mar 13, 2023 5:20:20 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Booking 5 tickets for movieAVATAR(ATWM160323)with customer id ATWC1234
+Mar 13, 2023 5:20:20 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 5:20:20 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM150323 3]
+Mar 13, 2023 5:20:20 PM assignmentws.BookingImplementation bookMovieTickets
+INFO: Movie booked successfully! 2023-03-13T17:20:20.860
+Mar 13, 2023 5:20:25 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for ATWC1234
+Mar 13, 2023 5:20:25 PM assignmentws.BookingImplementation getBookingSchedule
+INFO: Booking Schedule for customer with ID ATWC1234 is: [AVATAR ATWM150323 3, AVATAR ATWM160323 5]

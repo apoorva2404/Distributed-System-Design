@@ -1,0 +1,28 @@
+Mar 13, 2023 5:00:49 PM assignmentws.Client main
+INFO: User Entered 
+Mar 13, 2023 5:01:00 PM assignmentws.Client main
+INFO: Added movie slots successfully! 
+Mar 13, 2023 5:01:07 PM assignmentws.Client main
+INFO: User Entered 
+Mar 13, 2023 5:01:22 PM assignmentws.Client bookMovieTicket
+INFO: *You are already booked for the same slot!
+Mar 13, 2023 5:01:39 PM assignmentws.Client main
+INFO: User Entered 
+Mar 13, 2023 5:02:09 PM assignmentws.Client bookMovieTicket
+INFO: Movie booked successfully!
+Mar 13, 2023 5:02:13 PM assignmentws.Client main
+INFO: User Entered 
+Mar 13, 2023 5:02:15 PM assignmentws.Client getBookingSchedule
+INFO: [AVENGERS OUTM150323 3] 2023-03-13T17:02:15.125
+Mar 13, 2023 5:09:04 PM assignmentws.Client main
+INFO: User Entered 
+Mar 13, 2023 5:09:10 PM assignmentws.Client main
+INFO: Available movie shows: [VERM150323 10, OUTM150323 7] 2023-03-13T17:09:10.560
+Mar 13, 2023 5:09:17 PM assignmentws.Client main
+INFO: User Entered 
+Mar 13, 2023 5:09:18 PM assignmentws.Client getBookingSchedule
+INFO: [AVENGERS OUTM150323 3] 2023-03-13T17:09:18.426
+Mar 13, 2023 5:09:22 PM assignmentws.Client main
+INFO: User Entered 
+Mar 13, 2023 5:09:38 PM assignmentws.Client cancelMovieTicket
+INFO: !You dont have any booked ticket!
